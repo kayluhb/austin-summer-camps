@@ -1,0 +1,9 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "austin-camps-map",
+  "compatibility_date": "2025-05-08",
+  "observability": {
+    "enabled": true
+  },
+  "main": "./workers/app.ts"
+}
