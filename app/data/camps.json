@@ -1,0 +1,3417 @@
+[
+  {
+    "id": "73",
+    "name": "1ASoccer Skill Builders Camps",
+    "description": "cater to young soccer players who are beginners or have some limited experience in the game. The camp curriculum and staff will focus on basic skills like dribbling, footwork & 1v1 moves, passing inside foot and outside foot, controlling the soccer ball, shooting, and small-sided games with an emphasis on learning in a fun, challenging environment.",
+    "category": "sports",
+    "locations": [
+      {
+        "address": "4701 Priem Ln. Ste. 5-E, Pflugerville",
+        "lat": 30.503,
+        "lng": -97.823
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-07-31",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-07-31"
+      }
+    ],
+    "ageMin": 8,
+    "ageMax": 13,
+    "priceMin": 300,
+    "priceMax": 300,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://1asoccer.com",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "36",
+    "name": "A1 Creator Camp",
+    "description": "As seen on Shark Tank! Creator Camp transforms mindless scrolling into creative mastery for kids. From filmmaking, Lego animation, and YouTube videos to Minecraft game design, students learn to build the digital world, not just watch it. This high-energy program ends with a red-carpet \"Oscars\" showcase where students debut their final projects. Spots always fill fast for Austin's best camp for young makers!",
+    "category": "art-music",
+    "locations": [
+      {
+        "address": "Multiple locations: Round Rock, Cedar Park, Central, South Austin, and Lakeway",
+        "lat": 30.2672,
+        "lng": -97.7431
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-14",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-14"
+      }
+    ],
+    "ageMin": 5,
+    "ageMax": 7,
+    "priceMin": 170,
+    "priceMax": 278,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://creatorcamp.org",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "74",
+    "name": "All-Star Sports Camp",
+    "description": "gives campers the opportunity to learn teamwork and sportsmanship through a variety of fun games and activities. Under the guidance of trained coaches, children develop their athletic skills, discover new interests, and make lots of friends! Located inside SoccerZone South Austin and Lakeline.",
+    "category": "sports",
+    "locations": [
+      {
+        "address": "Multiple locations, Austin and Cedar Park",
+        "lat": 30.519955,
+        "lng": -97.83332
+      }
+    ],
+    "startDate": "2026-05-22",
+    "endDate": "2026-08-17",
+    "dateRanges": [
+      {
+        "startDate": "2026-05-22",
+        "endDate": "2026-08-17"
+      }
+    ],
+    "ageMin": 5,
+    "ageMax": 12,
+    "priceMin": 270,
+    "priceMax": 420,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://allstarsportscamp.org",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "37",
+    "name": "ART + Academy",
+    "description": "Learn technique, improve your art skills, and have fun this summer! These art camps help young artists practice new techniques, make real progress, and build confidence in a supportive, creative environment. With expert teachers and a small 8:1 student-teacher ratio, every camper receives personalized guidance. From playful themes like \"Comics & Cartooning\" to skill-focused camps such as \"Master the Brush: Acrylic Painting Techniques,\" learning art is both fun and rewarding.",
+    "category": "art-music",
+    "locations": [
+      {
+        "address": "5424 W US Hwy 290 Service Rd, #110, Austin, TX 78735",
+        "lat": 30.2375,
+        "lng": -97.8394
+      }
+    ],
+    "startDate": "2026-06-29",
+    "endDate": "2026-08-14",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-29",
+        "endDate": "2026-08-14"
+      }
+    ],
+    "ageMin": 5,
+    "ageMax": 17,
+    "priceMin": 365,
+    "priceMax": 365,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://artplusacademy.com",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "48",
+    "name": "ART CAMPS at Cordovan Art School",
+    "description": "Cordovan Art School camps have been voted the BEST art camps in the Austin area year after year! Experience a variety of media including clay, pottery wheel, watercolor, oils, acrylics, pastels, pottery painting, and mixed media. Popular themes include K-Pop Art Explosion, Slay With Clay, Toy Story Takeover, Talk With the Animals (with visits from live exotic animals!), Is It Cake or Art?, and Artopia! Cartooning & Comics.",
+    "category": "art-music",
+    "locations": [
+      {
+        "address": "3810 Gattis School Rd Suite 108, Round Rock, TX 78664",
+        "lat": 30.4876,
+        "lng": -97.6455
+      },
+      {
+        "address": "8108 Mesa Dr Suite B-102, Austin, TX 78759",
+        "lat": 30.3912,
+        "lng": -97.7461
+      },
+      {
+        "address": "9217 Hwy 290 W Suite 140, Austin, TX 78736",
+        "lat": 30.2455,
+        "lng": -97.9389
+      },
+      {
+        "address": "200 Buttercup Blvd Suite 122, Cedar Park, TX 78613",
+        "lat": 30.5267,
+        "lng": -97.8204
+      }
+    ],
+    "startDate": "2026-05-26",
+    "endDate": "2026-08-24",
+    "dateRanges": [
+      {
+        "startDate": "2026-05-26",
+        "endDate": "2026-08-24"
+      }
+    ],
+    "ageMin": 5,
+    "ageMax": 16,
+    "priceMin": 299,
+    "priceMax": 569,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://cordovanartschool.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "1",
+    "name": "ATX KIDS CLUB",
+    "description": "offers weeklong, adventure-based day camps where youth explore Austin through daily educational field trips tied to fun weekly themes. Campers explore Austin using public transportation developing the practical knowledge to navigate the city. Camp runs daily 8:30am-5:30pm with pickup and drop-off at Brentwood, Garrison, Pease, and Bartholomew Park. We offer a sliding scale pricing application open to all families to ensure access for every child.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "3005 S. Lamar Blvd, Ste. D-109 #371, Austin, TX 78704",
+        "lat": 30.2413,
+        "lng": -97.7837
+      }
+    ],
+    "startDate": "2026-05-26",
+    "endDate": "2026-08-14",
+    "dateRanges": [
+      {
+        "startDate": "2026-05-26",
+        "endDate": "2026-08-14"
+      }
+    ],
+    "startTime": "8:30 AM",
+    "endTime": "5:30 PM",
+    "ageMin": 4,
+    "ageMax": 13,
+    "priceMin": 135,
+    "priceMax": 500,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://www.atxkidsclub.org/",
+    "hasSpecialNeeds": true
+  },
+  {
+    "id": "75",
+    "name": "Austin Bouldering Project",
+    "description": "gives youth the opportunity to immerse themselves in bouldering fun! Whether your child is an experienced climber or brand-new to bouldering, they will have a blast with ABP's coaches leading the way. Kids will learn new aspects of climbing, connect with new friends, and gain confidence on the wall. These 9am-3pm camps also include crafts, yoga, games, and much more!",
+    "category": "sports",
+    "locations": [
+      {
+        "address": "979 Springdale #150, Austin, TX",
+        "lat": 30.2634,
+        "lng": -97.696
+      },
+      {
+        "address": "4477 S. Lamar #600, Austin, TX",
+        "lat": 30.231,
+        "lng": -97.7976
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-14",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-14"
+      }
+    ],
+    "startTime": "9:00 AM",
+    "endTime": "3:00 PM",
+    "ageMin": 4,
+    "ageMax": 14,
+    "priceMin": 475,
+    "priceMax": 675,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://boulderingproject.com/atx-summer-camps/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "39",
+    "name": "Austin Chamber Music Center Summer Workshop",
+    "description": "is a multi-week workshop that provides opportunities for musicians youth to adult. Activities include chamber music, chamber orchestra, and music elective classes (jazz improvisation, music composition, yoga for musicians, and introduction to conducting) in addition to coaching, master classes, and formal performances at UT-Austin's Bates Recital Hall.",
+    "category": "art-music",
+    "locations": [
+      {
+        "address": "UT-Austin Butler School of Music, 2406 Robert Dedman Dr.",
+        "lat": 30.2869246,
+        "lng": -97.7300308
+      }
+    ],
+    "startDate": "2026-07-13",
+    "endDate": "2026-07-25",
+    "dateRanges": [
+      {
+        "startDate": "2026-07-13",
+        "endDate": "2026-07-25"
+      }
+    ],
+    "ageMin": 7,
+    "ageMax": 10,
+    "priceMin": 450,
+    "priceMax": 1400,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://austinchambermusic.org/summer",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "40",
+    "name": "Austin Classical Guitar Youth Summer Camp",
+    "description": "This weeklong camp invites middle and high school guitarists into ensemble playing, skill-building, and creative discovery alongside peers who love music. Held at the Rosette in Austin, the experience culminates in a final performance for family and friends.",
+    "category": "art-music",
+    "locations": [
+      {
+        "address": "3908 Avenue B #116",
+        "lat": 30.3040846,
+        "lng": -97.7359712
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-05",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-06-05"
+      }
+    ],
+    "ageMin": 12,
+    "ageMax": 18,
+    "priceMin": 500,
+    "priceMax": 500,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://austinclassicalguitar.org/acg-youth-guitar-summer-camp/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "41",
+    "name": "Austin Film Festival's Summer Film Camp",
+    "description": "is back for its 24th year, with weeklong camps that provide students with the venue, equipment, and instruction they need to create a short film or animation! Morning, afternoon, and daylong sessions are open for young creatives to learn the full process of filmmaking, getting them behind the camera and turning their ideas into real movies.",
+    "category": "art-music",
+    "locations": [
+      {
+        "address": "First Baptist Church of Austin, 901 Trinity St.",
+        "lat": 30.270249,
+        "lng": -97.73756
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-07-24",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-07-24"
+      }
+    ],
+    "ageMin": 9,
+    "ageMax": 18,
+    "priceMin": 275,
+    "priceMax": 495,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://austinfilmfestival.com/sfc/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "89",
+    "name": "Austin Playhouse Theatre Camps",
+    "description": "Campers participate in a choose-your-own-adventure-style production or jukebox musical, creating characters, story, and design elements, leading up to a final performance for family and friends!",
+    "category": "theatre-dance",
+    "locations": [
+      {
+        "address": "405 W. 22nd",
+        "lat": 30.2841014,
+        "lng": -97.7119513
+      }
+    ],
+    "startDate": "2026-06-08",
+    "endDate": "2026-07-24",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-08",
+        "endDate": "2026-07-24"
+      }
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "priceMin": 305,
+    "priceMax": 315,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://austinplayhouse.com/camps",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "2",
+    "name": "Austin Rising School Summer Camps",
+    "description": "Get ready for a summer full of fun, interactive, and exciting themed adventures! Each week features a different theme. Past favorites are Harry Potter, Dungeons & Dragons–style quests, Forts & Fairies, and Engineering Design Labs, among others. Do you like storytelling, building, playing, experimenting, or exploring? These camps offer a joyful mix of learning and play!",
+    "category": "general",
+    "locations": [
+      {
+        "address": "6211 Parkwood Dr.",
+        "lat": 30.236936,
+        "lng": -97.855198
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-07",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-07"
+      }
+    ],
+    "ageMin": 6,
+    "ageMax": 15,
+    "priceMin": 85,
+    "priceMax": 400,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://www.austinrisingschool.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "90",
+    "name": "Austin Scottish Rite Theater Summer Camps",
+    "description": "Austin Scottish Rite Theater is pleased to offer weekly summer camps in acting, puppetry, stage combat, advanced theater, Shakespeare, and improvisation!",
+    "category": "theatre-dance",
+    "locations": [
+      {
+        "address": "207 W. 18th",
+        "lat": 30.2795817,
+        "lng": -97.7150271
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-07-31",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-07-31"
+      }
+    ],
+    "ageMin": 6,
+    "ageMax": 14,
+    "priceMin": 350,
+    "priceMax": 650,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://scottishritetheater.org/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "42",
+    "name": "Austin Soundwaves Music Summer Camp",
+    "description": "offers fun, five-day programs where students of all experience levels can explore instruments, build musical skills, and express their creativity. With programs for beginners, early musicians, and advanced players, campers enjoy hands-on activities, ensemble rehearsals, and engaging electives, all leading to a celebratory performance at the end of the week.",
+    "category": "art-music",
+    "locations": [
+      {
+        "address": "2235 E. 6th Street, Suite 107, Austin, TX 78702",
+        "lat": 30.2601,
+        "lng": -97.718
+      }
+    ],
+    "startDate": "2026-06-15",
+    "endDate": "2026-06-26",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-15",
+        "endDate": "2026-06-26"
+      }
+    ],
+    "ageMin": 7,
+    "ageMax": 18,
+    "priceMin": 335,
+    "priceMax": 385,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://www.austinsoundwaves.org/summer-music-camp",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "59",
+    "name": "Austin Spanish Academy Spanish Immersion Summer Camp",
+    "description": "creates an immersive environment where Spanish is the natural way to communicate. Students are surrounded by the language through welcoming classrooms that foster curiosity and conversation. Camps feature games, cooking, outdoor activities, arts & crafts, and more, all while learning about different countries. Fun, interactive, and fully in Spanish!",
+    "category": "instructional",
+    "locations": [
+      {
+        "address": "The Magellan International School, Bull Creek Campus, 7501 N. Capital of TX Hwy",
+        "lat": 30.374349,
+        "lng": -97.780317
+      }
+    ],
+    "startDate": "2026-06-08",
+    "endDate": "2026-07-17",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-08",
+        "endDate": "2026-07-17"
+      }
+    ],
+    "ageMin": 5,
+    "ageMax": 11,
+    "priceMin": 400,
+    "priceMax": 400,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://austinspanishacademy.co/camps/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "3",
+    "name": "Austin YMCA Full-Day Camps",
+    "description": "Get ready for an action-packed summer! Campers will dive into exciting weekly themes and participate in a variety of activities like weekly field trips, fun on-site experiences, science explorations, creative projects, games with friends, refreshing pool time, interactive centers, and engaging physical activities. Note: Y Center camps will swim daily. Partnered locations will have a swim trip and an on-site experience weekly.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "5807 McNeil Dr, Austin, TX 78729",
+        "lat": 30.4431,
+        "lng": -97.7639
+      },
+      {
+        "address": "1100 W 5th St, Austin, TX 78703",
+        "lat": 30.2711,
+        "lng": -97.7531
+      },
+      {
+        "address": "204 E Little Elm Trl, Cedar Park, TX 78613",
+        "lat": 30.5189,
+        "lng": -97.8145
+      },
+      {
+        "address": "1801 N IH 35, Round Rock, TX 78664",
+        "lat": 30.5185,
+        "lng": -97.6785
+      }
+    ],
+    "startDate": "2026-05-26",
+    "endDate": "2026-08-14",
+    "dateRanges": [
+      {
+        "startDate": "2026-05-26",
+        "endDate": "2026-08-14"
+      }
+    ],
+    "ageMin": 4,
+    "ageMax": 12,
+    "priceMin": 272,
+    "priceMax": 365,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://austinymca.org/camp",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "4",
+    "name": "Austin YMCA Half-Day Camps",
+    "description": "Ready for a summer packed with fun and excitement? The Austin Y is the perfect destination for active kids who love to play, offering your family flexible morning and afternoon options for your schedule. During the summer break, children will dive into a world of adventure with camp options like preschool, sports, gymnastics, cheer, racquetball, and swim. They’ll not only learn new skills but also make lifelong friends!",
+    "category": "general",
+    "locations": [
+      {
+        "address": "5807 McNeil Dr, Austin, TX 78729",
+        "lat": 30.4431,
+        "lng": -97.7639
+      },
+      {
+        "address": "1100 W 5th St, Austin, TX 78703",
+        "lat": 30.2711,
+        "lng": -97.7531
+      },
+      {
+        "address": "204 E Little Elm Trl, Cedar Park, TX 78613",
+        "lat": 30.5189,
+        "lng": -97.8145
+      },
+      {
+        "address": "1801 N IH 35, Round Rock, TX 78664",
+        "lat": 30.5185,
+        "lng": -97.6785
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-15",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-15"
+      }
+    ],
+    "ageMin": 3,
+    "ageMax": 12,
+    "priceMin": 145,
+    "priceMax": 170,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://austinymca.org/camp",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "76",
+    "name": "Austin Youth Fitness",
+    "description": "offers half-day options including Fit n' Fun Running Camp, Cycle the City Camp, and Beginner Biking Camp. Full-Day-of-Fun consists of Morning Fit n' Fun and Afternoon Biking.",
+    "category": "sports",
+    "locations": [
+      {
+        "address": "Pease District Park",
+        "lat": 30.2844585,
+        "lng": -97.7539037
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-14",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-14"
+      }
+    ],
+    "ageMin": 4,
+    "ageMax": 11,
+    "priceMin": 325,
+    "priceMax": 600,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://austinyouthfitness.com/summercamps",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "5",
+    "name": "Austin Zoo Summer Camps",
+    "description": "Weeklong camps at Austin Zoo offer an exciting blend of outdoor adventure and hands-on indoor learning. Each camp week is limited to just 20 campers and is led by three camp instructors along with Zoo Educators, ensuring a fun, safe, and engaging experience for every child. Campers will enjoy themed weeks filled with zoo tours, daily ambassador animal encounters, creating enrichment for zoo animals, and so much more. Visit the website to explore weekly camp themes and details.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "10808 Rawhide Trl",
+        "lat": 30.262148,
+        "lng": -97.937148
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-07",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-07"
+      }
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "priceMin": 395,
+    "priceMax": 425,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://www.austinzoo.org",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "43",
+    "name": "Badgerdog Creative Writing Camp",
+    "description": "Badgerdog writing camps serve students in grades 3-12, offering immersive, arts-focused experiences that nurture creativity and confidence. In small, thoughtfully led groups, young writers explore poetry, fiction, nonfiction, playwriting, and screenwriting alongside Austin’s professional writers. Badgerdog offers one-week spring break camps and two-week and three-week summer camps. 5% sibling discount. Scholarships available.",
+    "category": "art-music",
+    "locations": [
+      {
+        "address": "Multiple locations across Austin (various schools)",
+        "lat": 30.2672,
+        "lng": -97.7431
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-07-24",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-07-24"
+      }
+    ],
+    "ageMin": 7,
+    "ageMax": 18,
+    "priceMin": 250,
+    "priceMax": 595,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://austinlibrary.org/badgerdog",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "44",
+    "name": "Band Aid School of Music",
+    "description": "Inspire your child and make your whole family happier at Texas’ only National Champion Rock Band School. They make it easy for you to choose an amazing camp experience for your child.",
+    "category": "art-music",
+    "locations": [
+      {
+        "address": "2309 Thornton Rd, Suite E, Austin, TX 78704",
+        "lat": 30.2452,
+        "lng": -97.7719
+      }
+    ],
+    "startDate": "2026-06-08",
+    "endDate": "2026-08-21",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-08",
+        "endDate": "2026-08-21"
+      }
+    ],
+    "ageMin": 4,
+    "ageMax": 18,
+    "priceMin": 325,
+    "priceMax": 599,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://bandaidschoolofmusic.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "77",
+    "name": "Brandy Perryman Shooting Camp",
+    "description": "Shooters are developed, not born. Brandy Perryman takes great pride in developing campers to their fullest potential by providing an upbeat experience that provides positive competition while promoting self-esteem, repetition, team concepts, self-discipline, and most importantly, FUN. They have provided instruction to over 25,000 campers over the past 28 summers and a track record for returning campers and word of mouth publicity has helped them grow each summer.​",
+    "category": "sports",
+    "locations": [
+      {
+        "address": "1314 Exposition Blvd, Austin, TX 78703",
+        "lat": 30.2889,
+        "lng": -97.7732
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-07",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-07"
+      }
+    ],
+    "ageMin": 7,
+    "ageMax": 16,
+    "priceMin": 280,
+    "priceMax": 299,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://www.bperrymanshootingcamp.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "6",
+    "name": "Bricks & Minifigs South Austin Summer Camps",
+    "description": "Kids will explore creativity and problem-solving through hands-on LEGO® building activities, games, challenges, and guided projects. Camps focus on imagination, engineering basics, and fun collaboration. All campers bring home custom builds and memories of fun, brick-powered learning.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "5207 Brodie Ln. #130, Sunset Valley",
+        "lat": 30.2252043,
+        "lng": -97.8214682
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-31",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-31"
+      }
+    ],
+    "ageMin": 7,
+    "ageMax": 14,
+    "priceMin": 50,
+    "priceMax": 250,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://bricksandminifigs.com/southaustin-tx/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "7",
+    "name": "Camp Balcones",
+    "description": "is Camp Fire’s nature-based summer day camp at Emma Long Metropolitan Park, offering five weeks of outdoor adventure and STEAM learning. Campers connect with nature through hands-on exploration, environmental science, creative art, Earth and space discovery, and camping skills – plus swimming, hiking, creative play, teamwork, and friendship-building in a safe, supportive environment. Transportation and extended pickup options are available.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "Emma Long Metropolitan Park, 1600 City Park Rd.",
+        "lat": 30.32798,
+        "lng": -97.8380858
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-07-03",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-07-03"
+      }
+    ],
+    "ageMin": 6,
+    "ageMax": 14,
+    "priceMin": 375,
+    "priceMax": 450,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://camp-fire.org/",
+    "hasSpecialNeeds": true
+  },
+  {
+    "id": "8",
+    "name": "Camp Champions",
+    "description": "has created a tradition of excellence since 1967. This beautiful camp on Lake LBJ offers exciting activities and the best-trained counselors you’d expect from a top overnight summer camp. However, it is a developmental focus on building strong kids that sets Camp Champions apart. Camp Champions specializes in one- to four-week sessions where they create a loving environment and encourage every camper to discover the best versions of themselves while having a blast!",
+    "category": "general",
+    "locations": [
+      {
+        "address": "775 Camp Rd., Marble Falls, TX 78654",
+        "lat": 30.6085,
+        "lng": -98.4011
+      }
+    ],
+    "startDate": "2026-05-31",
+    "endDate": "2026-08-08",
+    "dateRanges": [
+      {
+        "startDate": "2026-05-31",
+        "endDate": "2026-08-08"
+      }
+    ],
+    "ageMin": 6,
+    "ageMax": 17,
+    "priceMin": 2400,
+    "priceMax": 4595,
+    "hasAftercare": false,
+    "hasOvernight": true,
+    "hasScholarships": false,
+    "website": "https://campchampions.com",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "9",
+    "name": "Camp Doublecreek",
+    "description": "With over 50 years of experience, their staff are ready to fill your camper's day with plenty of outdoor activities! Doublecreek offers a variety of sports, games and activities to ensure that there is something for everyone. Weekly registration offers schedule flexibility with transportation included! Doublecreek buses will pick your camper up and bring them back safely from eight different locations throughout the greater Austin area. .",
+    "category": "general",
+    "locations": [
+      {
+        "address": "850 CR 255, Georgetown, TX 78633",
+        "lat": 30.6412,
+        "lng": -97.6891
+      },
+      {
+        "address": "1810 N Co Rd 122, Round Rock, TX 78665",
+        "lat": 30.5698,
+        "lng": -97.6021
+      },
+      {
+        "address": "7815 Spicewood Springs Rd, Austin, TX 78759",
+        "lat": 30.4089,
+        "lng": -97.7654
+      }
+    ],
+    "startDate": "2026-05-26",
+    "endDate": "2026-08-07",
+    "dateRanges": [
+      {
+        "startDate": "2026-05-26",
+        "endDate": "2026-08-07"
+      }
+    ],
+    "ageMin": 4,
+    "ageMax": 14,
+    "priceMin": 550,
+    "priceMax": 550,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://campdoublecreek.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "10",
+    "name": "Camp Half-Blood Austin",
+    "description": "Since 2006, Camp Half-Blood Austin has been bringing the world of Percy Jackson and the Olympians, by author Rick Riordan, to life. Using monsters, villains, set and costume design, and special effects, camps immerse demigod campers in a quest written just for them. Sword training, archery classes, art, music, history, and daily quests don't hurt either. Saving the world from the bad guys has never been so much fun.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "McKinney Falls State Park Dining Hall",
+        "lat": 30.1929004,
+        "lng": -97.6972413
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-07-30",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-07-30"
+      }
+    ],
+    "ageMin": 9,
+    "ageMax": 18,
+    "priceMin": 747,
+    "priceMax": 747,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://camphalfbloodaustin.org/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "11",
+    "name": "Camp Hope Day Camp",
+    "description": "The theme for 2026 is Gamer's Journey! Camp Hope is a unique adult-mentored, student-led ministry. Each day, children 4 years old so sixth grade will hear a new Bible story and learn what it means through hands-on, creative, and age-appropriate activities. All day long every activity points them back to the Bible story. This is done through small groups, worship, snacks, art, STEM, drama, and music.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "9508 Great Hills Trl",
+        "lat": 30.394502,
+        "lng": -97.755932
+      }
+    ],
+    "startDate": "2026-07-06",
+    "endDate": "2026-07-17",
+    "dateRanges": [
+      {
+        "startDate": "2026-07-06",
+        "endDate": "2026-07-10"
+      },
+      {
+        "startDate": "2026-07-13",
+        "endDate": "2026-07-17"
+      }
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "priceMin": 195,
+    "priceMax": 250,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://tllc.org/camp",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "12",
+    "name": "Camp Lone Star",
+    "description": "For over 80 years, Camp Lone Star’s La Grange campus has provided a safe, Christ-centered summer experience parents trust. Campers grow in confidence, friendships, and faith through outdoor adventure, caring staff, and intentional programming. With affordable pricing and scholarships, Camp Lone Star makes life-changing camp accessible to families.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "2016 Camp Lone Star Rd., La Grange",
+        "lat": 29.9080038,
+        "lng": -96.8730449
+      }
+    ],
+    "startDate": "2026-05-31",
+    "endDate": "2026-07-24",
+    "dateRanges": [
+      {
+        "startDate": "2026-05-31",
+        "endDate": "2026-07-24"
+      }
+    ],
+    "ageMin": 7,
+    "ageMax": 18,
+    "priceMin": 339,
+    "priceMax": 1129,
+    "hasAftercare": false,
+    "hasOvernight": true,
+    "hasScholarships": true,
+    "website": "https://www.camplonestar.org/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "45",
+    "name": "Camp Paramount",
+    "description": "offers seven sessions to choose from at locations across Austin. In this fun and fast-paced two-week musical theatre camp, campers will perform Broadway-style musical numbers and iconic pop hits. Campers will not only be preparing for their dynamic final performance, but they will also receive training in voice, acting, dance, and production from professionally trained theatre artists. All sessions are different and unique – join for multiple sessions!",
+    "category": "art-music",
+    "locations": [
+      {
+        "address": "713 Congress Ave, Austin, TX 78701",
+        "lat": 30.2683,
+        "lng": -97.7417
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-07",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-07"
+      }
+    ],
+    "ageMin": 6,
+    "ageMax": 16,
+    "priceMin": 900,
+    "priceMax": 900,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://austintheatre.org/camps",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "78",
+    "name": "Camp Switch Willo Horse Camp",
+    "description": "At a location near the Domain, campers enjoy daily horseback riding, swimming with a certified lifeguard, arts & crafts, and fun indoor and outdoor games. Experienced, caring staff welcomes beginners and returning riders alike. Camp Switch Willo offers a safe, confidence-building environment where kids learn new skills, make friends, and have an unforgettable camp experience. Hours are 9am-4pm.",
+    "category": "sports",
+    "locations": [
+      {
+        "address": "4829 Switch Willo",
+        "lat": 30.4165535,
+        "lng": -97.73643
+      }
+    ],
+    "startDate": "2026-05-25",
+    "endDate": "2026-08-07",
+    "dateRanges": [
+      {
+        "startDate": "2026-05-25",
+        "endDate": "2026-08-07"
+      }
+    ],
+    "startTime": "9:00 AM",
+    "endTime": "4:00 PM",
+    "ageMin": 5,
+    "ageMax": 18,
+    "priceMin": 575,
+    "priceMax": 575,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://www.switchwillostable.com/camp",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "13",
+    "name": "Camp Vamonos!",
+    "description": "is a full-day camp run out of a private home in the Crestview neighborhood. Kids need to play, and at Camp Vamonos! they get ample time to do it. The big backyard is filled with \"loose parts\" for imaginative play, a foosball table, and much more. Campers go on daily outings, including to the pool, as well as bake, create art and unique crafts, and enjoy timeless and low-tech toys and games. Kids feed their brains and their souls in a mixed-age, cozy setting. Se habla español también. Come play with us! Vamonos!",
+    "category": "general",
+    "locations": [
+      {
+        "address": "6919 Reese Ln.",
+        "lat": 30.339718,
+        "lng": -97.722406
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-10",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-10"
+      }
+    ],
+    "ageMin": 5,
+    "ageMax": 11,
+    "priceMin": 250,
+    "priceMax": 250,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://campvamonos.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "46",
+    "name": "Ceramigos Kids Clay Club",
+    "description": "Let your young artist get creative with clay! The four-week Kids Clay Club is a fun, hands-on introduction to pottery designed just for kids and teens. Each week, students explore new techniques – from handbuilding to simple wheel work – while making projects they’ll be excited to bring home. Campers learn beginner-friendly handbuilding (pinch, coil, slab), try kid-safe wheel time (supervised and fun!), make creative projects like cups, creatures, bowls, and mini sculptures, and more.",
+    "category": "art-music",
+    "locations": [
+      {
+        "address": "4930 S. Congress #301",
+        "lat": 30.212389,
+        "lng": -97.771164
+      }
+    ],
+    "startDate": "2026-06-03",
+    "endDate": "2026-08-29",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-03",
+        "endDate": "2026-08-29"
+      }
+    ],
+    "ageMin": 6,
+    "ageMax": 14,
+    "priceMin": 195,
+    "priceMax": 195,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://www.ceramigos-austin.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "14",
+    "name": "Club SciKidz",
+    "description": "The best STEM camps start right here! Each summer Club SciKidz offers over 70+ themed camps, including Astronomy, Meteorology, Sea Adventures, Climate Change, Veterinary Medicine, Robotics, Marvel Stop Motion Animation, Save Our Oceans, Chemistry, Rocketry, American Doll, Wizarding World (Harry Potter), Medicine, and Surgery, just to name a few! These camps offer an unparalleled experience, fostering a love for STEM that lasts far beyond the summer.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "1320 Arrow Point Dr, Cedar Park, TX 78613",
+        "lat": 30.4912,
+        "lng": -97.8234
+      },
+      {
+        "address": "7901 Brodie Ln, Austin, TX 78745",
+        "lat": 30.1876,
+        "lng": -97.8512
+      }
+    ],
+    "startDate": "2026-06-15",
+    "endDate": "2026-08-07",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-15",
+        "endDate": "2026-08-07"
+      }
+    ],
+    "ageMin": 4,
+    "ageMax": 15,
+    "priceMin": 425,
+    "priceMax": 515,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://austin.clubscikidz.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "47",
+    "name": "Concordia Texas High School Summer Music Camp",
+    "description": "This summer, the CTX Music Department will be holding its annual music camp designed exclusively for high school musicians! Participants will have the opportunity to refine their performance skills on instruments or vocals, learn compositional and recording techniques, and record their own original music.",
+    "category": "art-music",
+    "locations": [
+      {
+        "address": "11400 Concordia University Dr.",
+        "lat": 30.4178669,
+        "lng": -97.8402363
+      }
+    ],
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-11",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-08",
+        "endDate": "2026-06-11"
+      }
+    ],
+    "ageMin": 14,
+    "ageMax": 18,
+    "priceMin": 285,
+    "priceMax": 425,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://concordiatexasmusic.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "15",
+    "name": "Cooking, Arts, and Swim All-In-One Summer Camps",
+    "description": "Every day starts with a cooking session in the morning, then arts sessions in the afternoon, ending with a cool swim in a natural creek at the back of the campsite.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "6800 Spanish Oaks Club Blvd.",
+        "lat": 30.3073561,
+        "lng": -97.9522409
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-26",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-06-26"
+      }
+    ],
+    "ageMin": 4,
+    "ageMax": 12,
+    "priceMin": 450,
+    "priceMax": 450,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://westlakechineseacademy.org/camp/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "16",
+    "name": "Coyote Kids Nature Camp",
+    "description": "provides the opportunity for campers to develop lifelong skills through a diverse range of nature education, outdoor recreation, field trips, and creative activities indoors and outdoors. This camp focuses on introducing youths to the outdoors and educating them on conservation, biodynamics, food chains, and more. Dripping Springs Ranch Park is the ideal Texas Hill Country setting for an amazing day camp.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "1042 Event Center Dr., Dripping Springs",
+        "lat": 30.217235,
+        "lng": -98.086448
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-07-31",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-07-31"
+      }
+    ],
+    "ageMin": 5,
+    "ageMax": 11,
+    "priceMin": 300,
+    "priceMax": 300,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://drippingspringsranchpark.com/coyote-kids-camp",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "49",
+    "name": "Crayola Imagine Arts Academy",
+    "description": "camps inspire creativity and confidence! Designed for elementary-aged kids, these hands-on art camps let your child explore, create, and express themselves in a fun, supportive environment. Campers become artists for the week as they design and bring their ideas to life through exciting projects. An inquiry-based approach makes learning joyful for even the youngest artists. With five amazing camp themes, there’s something for every child. Register now, pay later!",
+    "category": "art-music",
+    "locations": [
+      {
+        "address": "Multiple locations across Austin and San Antonio",
+        "lat": 30.2672,
+        "lng": -97.7431
+      }
+    ],
+    "startDate": "2026-05-26",
+    "endDate": "2026-08-14",
+    "dateRanges": [
+      {
+        "startDate": "2026-05-26",
+        "endDate": "2026-08-14"
+      }
+    ],
+    "ageMin": 5,
+    "ageMax": 12,
+    "priceMin": 240,
+    "priceMax": 420,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://austin.imagineartsacademy.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "50",
+    "name": "Creative Action Summer Camp",
+    "description": "Our award-winning summer camps provide your child with hands-on learning, arts exploration, social and emotional growth, and both indoor and outdoor fun. Each week offers a unique theme taught by our professional teaching artists.",
+    "category": "art-music",
+    "locations": [
+      {
+        "address": "1023 Springdale Rd., Bldg",
+        "lat": 30.2677245,
+        "lng": -97.6938995
+      }
+    ],
+    "startDate": "2026-06-08",
+    "endDate": "2026-08-07",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-08",
+        "endDate": "2026-08-07"
+      }
+    ],
+    "ageMin": 5,
+    "ageMax": 11,
+    "priceMin": 395,
+    "priceMax": 425,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://creativeaction.org/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "51",
+    "name": "DJ FUTURE STARS",
+    "description": "provides an elevated DJ experience for aspiring artists. Students master the art of mixing techno, progressive, trance, and house music using professional equipment provided, while learning directly from international DJ Victor Dinaire. The weekly camp concludes with a live performance opportunity at the fashion show every Friday, hosted at the Austin School of Fashion Studio.",
+    "category": "art-music",
+    "locations": [
+      {
+        "address": "9503 Research Blvd. #250",
+        "lat": 30.38632,
+        "lng": -97.742125
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-07",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-07"
+      }
+    ],
+    "ageMin": 9,
+    "ageMax": 17,
+    "priceMin": 449,
+    "priceMax": 599,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://djfuturestars.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "17",
+    "name": "Dragon's Lair Comic & Fantasy",
+    "description": "Calling all parents of nerds! Summer camps are now open for registration. Dragon's Lair hosts 10 different hobby camps, including Dungeons & Dragons, Pokémon, How to Make Comics, Daggerheart, Magic the Gathering, and Heroscape – each camp is a true celebration of creativity and hobbies. They offer a space to learn new games, make new friends, and experience what makes games fun!",
+    "category": "general",
+    "locations": [
+      {
+        "address": "2438 W. Anderson Ste. B-1",
+        "lat": 30.3593,
+        "lng": -97.7383
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-14",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-14"
+      }
+    ],
+    "ageMin": 7,
+    "ageMax": 17,
+    "priceMin": 500,
+    "priceMax": 600,
+    "hasAftercare": true,
+    "hasOvernight": true,
+    "hasScholarships": true,
+    "website": "https://dlair.net/austin/events/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "18",
+    "name": "Earth Native Wilderness School: Day Camps",
+    "description": "Earth Native’s day camps get kids outdoors exploring, adventuring, and learning real nature skills. From hands-on discovery in Nature Quest Camp, wilderness confidence in Bushcraft Survival Camp, playful exploration in Forest Explorers Camp, rugged outdoor fun at Mission Wild Camp, to animal care and forest play at Camp Farm and Forest, every camp sparks curiosity, confidence, and connection to the natural world.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "137 Woodview Ln, Bastrop, TX 78602",
+        "lat": 30.1456,
+        "lng": -97.3892
+      },
+      {
+        "address": "5808 McKinney Falls Pkwy, Austin, TX 78744",
+        "lat": 30.1832,
+        "lng": -97.7221
+      }
+    ],
+    "startDate": "2026-05-26",
+    "endDate": "2026-08-14",
+    "dateRanges": [
+      {
+        "startDate": "2026-05-26",
+        "endDate": "2026-08-14"
+      }
+    ],
+    "ageMin": 4,
+    "ageMax": 12,
+    "priceMin": 235,
+    "priceMax": 475,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://www.earthnativeschool.com/summer-camps",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "19",
+    "name": "Earth Native Wilderness School: Overnight Camps",
+    "description": "Adventure awaits at Earth Native’s Wilderness Overnight Camps! Campers spend Monday-Friday at the Bastrop campus learning hands-on wilderness skills with kids in their age group – from fire-making, shelter building, and natural navigation to tracking, wild edibles, tool safety, archery & paintball target practice. With expert guidance, meals, tents under the stars, and confidence-building challenges, these immersive overnight experiences spark independence, resilience, and a deep connection to nature.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "137 Woodview Ln., Bastrop",
+        "lat": 30.143,
+        "lng": -97.321
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-26",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-06-26"
+      }
+    ],
+    "ageMin": 9,
+    "ageMax": 16,
+    "priceMin": 895,
+    "priceMax": 895,
+    "hasAftercare": false,
+    "hasOvernight": true,
+    "hasScholarships": true,
+    "website": "https://www.earthnativeschool.com/summer-camps",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "100",
+    "name": "Eastside Silver Prints Summer Photography Camp",
+    "description": "A summer photography camp for ages 11-16 offering hands-on darkroom and photography instruction. Campers learn film photography, darkroom techniques, and creative expression through the art of silver gelatin printing.",
+    "category": "art-music",
+    "locations": [
+      {
+        "address": "2801 IH 35, Suite P16, Austin, TX 78741",
+        "lat": 30.22756,
+        "lng": -97.743698
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-07-24",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-06-05"
+      },
+      {
+        "startDate": "2026-06-08",
+        "endDate": "2026-06-12"
+      },
+      {
+        "startDate": "2026-06-22",
+        "endDate": "2026-06-26"
+      },
+      {
+        "startDate": "2026-07-06",
+        "endDate": "2026-07-10"
+      },
+      {
+        "startDate": "2026-07-20",
+        "endDate": "2026-07-24"
+      }
+    ],
+    "startTime": "9:00 AM",
+    "endTime": "12:00 PM",
+    "ageMin": 11,
+    "ageMax": 16,
+    "priceMin": 400,
+    "priceMax": 400,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://www.eastsidesilverprints.com/purchasedarkroomclasses/p/summer-photography-camp",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "20",
+    "name": "Echo Hill Ranch Gold Star Camp",
+    "description": "Founded by Texas icon Kinky Friedman, this is a traditional sleepaway camp for kids who lost a parent in service to our country, including Gold Star Children, Children of Fallen Heroes, and Children of Fallen First Responders. Campers make friends and enjoy horseback riding, swimming in the camp river, athletics, nature activities, and the creative arts. Children have the opportunity to have fun, relax, and be themselves in a supportive and positive setting.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "965 Echo Hill Rd., Medina",
+        "lat": 29.805,
+        "lng": -99.2397
+      }
+    ],
+    "startDate": "2026-06-15",
+    "endDate": "2026-06-24",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-15",
+        "endDate": "2026-06-24"
+      }
+    ],
+    "ageMin": 8,
+    "ageMax": 14,
+    "priceMin": 200,
+    "priceMax": 500,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://echohill.org",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "79",
+    "name": "EP Sports Academy",
+    "description": "Sports-led Adventure Camps provide a place for kids to move, play, and develop through structured sports, games, and teamwork. With intentionally low ratios and experienced coaches, campers get guidance, encouragement, and challenges each day of camp. Soccer Camp is designed for players who want to grow their skills. Through small group coaching and intentional drills, it blends technical training, tactical understanding, and physical development to help players build their soccer IQ.",
+    "category": "sports",
+    "locations": [
+      {
+        "address": "7800 Apogee Blvd.",
+        "lat": 30.433,
+        "lng": -97.683
+      }
+    ],
+    "startDate": "2026-05-25",
+    "endDate": "2026-08-07",
+    "dateRanges": [
+      {
+        "startDate": "2026-05-25",
+        "endDate": "2026-08-07"
+      }
+    ],
+    "ageMin": 2,
+    "ageMax": 15,
+    "priceMin": 58,
+    "priceMax": 79,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://epsportsacademy.com",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "91",
+    "name": "Excused Absence at ColdTowne Theater",
+    "description": "Excused Absence Comedy has been been teaching kids and teens how to find the funny since 2007. Offering full-and half-day camps all summer long, experienced teaching artists have a genuine love for comedy and relish the opportunity to provide kids and teens with chances to create original works of their own. Low-pressure and supportive, these camps balance comedic collaboration and skill-building with adventures in the absurd, inside jokes and new friends.",
+    "category": "theatre-dance",
+    "locations": [
+      {
+        "address": "1700 E. Second",
+        "lat": 30.258914,
+        "lng": -97.72578
+      }
+    ],
+    "startDate": "2026-05-25",
+    "endDate": "2026-08-14",
+    "dateRanges": [
+      {
+        "startDate": "2026-05-25",
+        "endDate": "2026-08-14"
+      }
+    ],
+    "ageMin": 5,
+    "ageMax": 17,
+    "priceMin": 250,
+    "priceMax": 400,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://excusedabsence.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "60",
+    "name": "Fantastic Magic Camp",
+    "description": "Austin’s most magical camp since 1993 – making memories and teaching life skills and confidence through magic, juggling, puppets, and fun! A fully inclusive day camp offers summer, spring, winter, and other holiday camps and events, as well as afterschool classes. Each day ends with a show by a magician, juggler, clown, puppeteer, ventriloquist, or storyteller – but most often a Magician! Register now before we are filled up…",
+    "category": "instructional",
+    "locations": [
+      {
+        "address": "7500 Woodrow Ave, Austin, TX 78757",
+        "lat": 30.3468,
+        "lng": -97.7243
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-14",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-14"
+      }
+    ],
+    "ageMin": 5,
+    "ageMax": 12,
+    "priceMin": 95,
+    "priceMax": 450,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://magiccamp.com",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "52",
+    "name": "Fashion & Sewing Summer Camp",
+    "description": "Bring your young fashionista for an immersive week of sewing fun! Students will learn to create using Bernina sewing machines, with all tools and materials provided – then celebrate every Friday with a fabulous runway fashion show, featuring their own designs set to the beat of the in-house live DJ & DJ students.",
+    "category": "art-music",
+    "locations": [
+      {
+        "address": "9503 Research Blvd. #250",
+        "lat": 30.38632,
+        "lng": -97.742125
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-07",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-07"
+      }
+    ],
+    "ageMin": 7,
+    "ageMax": 14,
+    "priceMin": 399,
+    "priceMax": 599,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://www.sewingsummercamp.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "53",
+    "name": "Figment Creative Labs",
+    "description": "Each day campers make awesome art, explore maker ed projects, and have fun with friends their own age as well as the Figment Furry (and scaly) Friends. Process art and STEAM focused.",
+    "category": "art-music",
+    "locations": [
+      {
+        "address": "7809 Brodie Ln.",
+        "lat": 30.204265,
+        "lng": -97.8363575
+      }
+    ],
+    "startDate": "2026-05-08",
+    "endDate": "2026-08-03",
+    "dateRanges": [
+      {
+        "startDate": "2026-05-08",
+        "endDate": "2026-08-03"
+      }
+    ],
+    "ageMin": 4,
+    "ageMax": 14,
+    "priceMin": 525,
+    "priceMax": 525,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://figmentcreativelabs.com",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "21",
+    "name": "Film Camp",
+    "description": "is a hands-on, immersive filmmaking experience designed to introduce students to the full creative process of making a movie, from idea to screen. Working in small teams, students explore storytelling, performance, and visual creativity while learning how real film sets operate. The camp concludes with a final screening of the students’ completed projects, which are shared privately online with families once the camp ends.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "5900 Balcones Dr, Ste 100, Austin, TX 78731",
+        "lat": 30.3415,
+        "lng": -97.7545
+      }
+    ],
+    "startDate": "2026-06-08",
+    "endDate": "2026-07-31",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-08",
+        "endDate": "2026-07-31"
+      }
+    ],
+    "ageMin": 7,
+    "ageMax": 14,
+    "priceMin": 400,
+    "priceMax": 500,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://film.camp/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "80",
+    "name": "Full-Day Adventure Camp at YMCA Camp Moody",
+    "description": "Nature is your playground every day at YMCA Camp Moody! Located along Onion Creek on 85 acres of pristine wilderness, Camp Moody boasts the natural wonders of the Edwards Plateau. Summer camp adventurers will unplug and explore a serene escape from everyday life: lush landscapes, limestone bluffs, spring-fed fishing holes and miles of trails. If your camper is ready to live on the wild side, YMCA Camp Moody is the perfect place! Weekly themes are focused on outdoor activities: archery, atalatl, and beyond.",
+    "category": "sports",
+    "locations": [
+      {
+        "address": "YMCA Camp Moody, 1220 Old San Antonio Rd., Buda",
+        "lat": 30.0842477,
+        "lng": -97.8224957
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-07-31",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-07-31"
+      }
+    ],
+    "ageMin": 8,
+    "ageMax": 14,
+    "priceMin": 290,
+    "priceMax": 365,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://austinymca.org/camp",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "61",
+    "name": "Future Set Tech Camp",
+    "description": "Create games. Tell stories. Solve puzzles. Bring your ideas to life. These game design camps teach creativity, critical thinking, and problem-solving through coding projects kids actually want to make. Students create, test, and refine their work to meet challenges and turn their visions into reality.",
+    "category": "instructional",
+    "locations": [
+      {
+        "address": "3315 El Salido Pkwy, Cedar Park, TX 78613",
+        "lat": 30.4608,
+        "lng": -97.8277
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-07-02",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-07-02"
+      }
+    ],
+    "ageMin": 8,
+    "ageMax": 18,
+    "priceMin": 275,
+    "priceMax": 275,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://futuresetcamp.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "62",
+    "name": "Game Worlds",
+    "description": "is an award-winning STEM education program that turns kids’ passion for playing games into a love of building them! Working in a team, students learn both the artistic and technical aspects of game development, bond with friends, and build confidence as coders, storytellers, artists, and musicians. Because the final projects are actually built by them, students leave Game Worlds with both a game they feel proud of and the skills needed to build their next one!",
+    "category": "instructional",
+    "locations": [
+      {
+        "address": "7950 Anderson Square #109",
+        "lat": 30.3511778,
+        "lng": -97.7170152
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-14",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-14"
+      }
+    ],
+    "ageMin": 8,
+    "ageMax": 18,
+    "priceMin": 745,
+    "priceMax": 745,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://gameworldscamp.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "92",
+    "name": "GFTQ Camp",
+    "description": "is a two-week, tuition-free, devised performance centered program for LGBTQ+ youth. GFTQ Camp focuses on building connections, skills training, and the arts as social justice advocacy. Participants will receive training and mentorship from professional local artists and educators to create an original performance that reflects their experiences, challenges, and perspectives. Campers meet Monday- Friday, July 20-31, culminating with a public performance on Aug. 1.",
+    "category": "theatre-dance",
+    "locations": [
+      {
+        "address": "979 Springdale #122",
+        "lat": 30.2633729,
+        "lng": -97.6959518
+      }
+    ],
+    "startDate": "2026-07-20",
+    "endDate": "2026-08-01",
+    "dateRanges": [
+      {
+        "startDate": "2026-07-20",
+        "endDate": "2026-08-01"
+      }
+    ],
+    "ageMin": 13,
+    "ageMax": 17,
+    "priceMin": 200,
+    "priceMax": 500,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://www.groundfloortheatre.org/camp",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "63",
+    "name": "Girlstart",
+    "description": "Girlstart summer camps are weeklong STEM programs for girls entering fourth-eighth grades in 2026. All Girlstart camps include a balance of hands-on STEM activities, relevant technology, collaborative team building, and informal camp fun! Don't miss the exciting new 2026 camp themes: Girlstart Studios (create a short film!), Eco Explorers (save the planet!), and STEM Detectives (solve a mystery!) Registration opens Mon., Feb. 2, and a $55 discount runs through the end of the month!",
+    "category": "instructional",
+    "locations": [
+      {
+        "address": "1400 W. Anderson",
+        "lat": 30.351345,
+        "lng": -97.7197884
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-07-31",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-07-31"
+      }
+    ],
+    "ageMin": 8,
+    "ageMax": 14,
+    "priceMin": 395,
+    "priceMax": 450,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://girlstart.org/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "22",
+    "name": "Idea Lab Summer Camp",
+    "description": "is now open for registration! Join in for a summer full of hands-on STEM fun – science experiments, engineering builds, robotics, coding, creative design, and more. Get 10% off registration through March 15 with discount code: summer10. Spots fill fast – grab your discount while it lasts!",
+    "category": "general",
+    "locations": [
+      {
+        "address": "8620 Burnet Rd Suite 500, Austin, TX 78757",
+        "lat": 30.3712,
+        "lng": -97.7389
+      },
+      {
+        "address": "13642 Research Blvd, Austin, TX 78750",
+        "lat": 30.4438,
+        "lng": -97.7921
+      }
+    ],
+    "startDate": "2026-05-26",
+    "endDate": "2026-08-14",
+    "dateRanges": [
+      {
+        "startDate": "2026-05-26",
+        "endDate": "2026-08-14"
+      }
+    ],
+    "ageMin": 5,
+    "ageMax": 12,
+    "priceMin": 415,
+    "priceMax": 460,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://idealabkids.com/location/austin",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "23",
+    "name": "Iron Horse Country Motocross Summer Camp",
+    "description": "At Iron Horse, it's the best of both worlds: a traditional overnight camp setting paired with learning the joy of moto dirt bike riding. For beginners on up – you just have to know how to ride a bicycle. The focus is on teaching to ride and having fun along the way. Low camper-to-staff ratio enhances safety and personalized care. Dirt bikes & safety gear included, plus instruction and all activities on a 100-acre Texas Hill Country ranch with A/C facilities, a pool, and great meals.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "9100 E. FM. 243, Bertram",
+        "lat": 30.825411,
+        "lng": -97.956071
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-07-17",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-07-17"
+      }
+    ],
+    "ageMin": 8,
+    "ageMax": 14,
+    "priceMin": 1980,
+    "priceMax": 2480,
+    "hasAftercare": false,
+    "hasOvernight": true,
+    "hasScholarships": false,
+    "website": "https://ironhorsecountry.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "24",
+    "name": "Kidventure",
+    "description": "has helped kids grow into happy, healthy, confident people for 32 years. Offering both day and overnight camps, Kidventure blends sports, creativity, exploration, and leadership in a safe, purpose-driven environment. Built by parents and trusted by families, Kidventure focuses on outcomes – confidence, friendships, and character – not just activities.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "7209 Scenic Oaks Cir",
+        "lat": 30.202024,
+        "lng": -97.8144191
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-14",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-14"
+      }
+    ],
+    "ageMin": 3,
+    "ageMax": 16,
+    "priceMin": 360,
+    "priceMax": 360,
+    "hasAftercare": false,
+    "hasOvernight": true,
+    "hasScholarships": false,
+    "website": "https://kidventure.com/austin-summer-camps/",
+    "hasSpecialNeeds": true
+  },
+  {
+    "id": "25",
+    "name": "Los Amiguitos Summer Camp",
+    "description": "Join Los Amiguitos for fun nature and immersion summer camps! Amiguitos will be immersed in Spanish and nature, and will enjoy fun and engaging activities in a small group setting that emphasizes creativity and empowerment. All instruction will be in Spanish, but no prior Spanish background is needed to attend!",
+    "category": "general",
+    "locations": [
+      {
+        "address": "3701 E. MLK #3",
+        "lat": 30.283614,
+        "lng": -97.694877
+      }
+    ],
+    "startDate": "2026-06-15",
+    "endDate": "2026-07-31",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-15",
+        "endDate": "2026-07-31"
+      }
+    ],
+    "ageMin": 3,
+    "ageMax": 13,
+    "priceMin": 240,
+    "priceMax": 495,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://escuelaamiguitos.com/camps/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "64",
+    "name": "Mad Science Camps",
+    "description": "turn curiosity into confidence! Designed for elementary-aged kids, these camps are packed with hands-on experiments, creative building, and “wow!” moments that make learning feel like play. Your child becomes a junior scientist for the week – asking questions, solving problems, and building exciting projects in a supportive environment. With 12 fun themes like robots, rockets, Spy Academy, Yuckology, chemistry, and more, there’s something for every child. Register now, pay later!",
+    "category": "instructional",
+    "locations": [
+      {
+        "address": "6120 HWY 290 West, Austin, TX 78735",
+        "lat": 30.2355,
+        "lng": -97.8573
+      }
+    ],
+    "startDate": "2026-03-16",
+    "endDate": "2026-08-14",
+    "dateRanges": [
+      {
+        "startDate": "2026-03-16",
+        "endDate": "2026-03-20"
+      },
+      {
+        "startDate": "2026-05-26",
+        "endDate": "2026-08-14"
+      }
+    ],
+    "ageMin": 5,
+    "ageMax": 12,
+    "priceMin": 240,
+    "priceMax": 420,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://austin.madscience.org/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "65",
+    "name": "MasterSchool Summer Program for Gifted Youngsters",
+    "description": "offers gifted youngsters a tech-free, outdoor sanctuary for child-led magic! A small-group day program prioritizes creativity, leadership, and mindfulness in a forest setting. Students explore trails and ponds, bond with ranch animals, and collaborate with high-ability peers. Guided by expert educators, children build self-confidence and lasting friendships without the pressure of grades. Join us for a summer of intellectual freedom and nature-based discovery!",
+    "category": "instructional",
+    "locations": [
+      {
+        "address": "8400 Burleson-Manor Rd., Manor",
+        "lat": 30.2775,
+        "lng": -97.528062
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-07-02",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-07-02"
+      }
+    ],
+    "ageMin": 5,
+    "ageMax": 14,
+    "priceMin": 3120,
+    "priceMax": 3120,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://masterschoolkids.org/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "26",
+    "name": "Middle School Girls' STEM Camps",
+    "description": "Unlock her potential this summer at camps designed for middle school girls, blending hands-on, high-interest tech learning with well-being. Themes include coding, engineering, and graphic design, plus a Tech-Free Creativity Week focused on nature and balance. Daily Wellderness time builds mindfulness, balance, and a healthy mind and body across 3 acres of outdoor, tree-filled spaces with playgrounds and wildflower meadows.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "10321 Boulder Ln.",
+        "lat": 30.4415059,
+        "lng": -97.8291377
+      }
+    ],
+    "startDate": "2026-06-08",
+    "endDate": "2026-07-03",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-08",
+        "endDate": "2026-07-03"
+      }
+    ],
+    "ageMin": 9,
+    "ageMax": 13,
+    "priceMin": 250,
+    "priceMax": 500,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://www.texasgirlsschool.org/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "66",
+    "name": "Moolah U Kid Business Camp",
+    "description": "Future-proof your kids! This is financial education that works – because it's real. Moolah U takes the guesswork out of teaching financial education by immersing kids in a hands-on, real-world experience of running a business. And they do it right at home, in their own neighborhood, in real time! In just one week, your camper will turn a big idea into a real business, make a plan that wows everyone, meet with entrepreneur mentors, and become a confident business speaker.",
+    "category": "instructional",
+    "locations": [
+      {
+        "address": "4330 Bull Creek Rd, Ste 1418, Austin, TX 78731",
+        "lat": 30.3179,
+        "lng": -97.7552
+      }
+    ],
+    "startDate": "2026-06-08",
+    "endDate": "2026-08-10",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-08",
+        "endDate": "2026-08-10"
+      }
+    ],
+    "ageMin": 7,
+    "ageMax": 15,
+    "priceMin": 375,
+    "priceMax": 475,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://moolahu.com/kid-business-camp-2026/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "67",
+    "name": "My Coding Place STEM camps",
+    "description": "Join in for a summer of hands-on learning, creativity and fun STEM adventures! Camps for teens are on Thursday-Friday from 9am-3pm including creative topics such as Young Innovators, AI Explorers, and Digital Art. Camps for kids ages 7-11 are Monday-Wednesday from 9am-3pm with exciting topics such as Crazy Keyboarding, Minecraft Mania, and 3D Printing Party. Choose from three locations and 12 weeks of innovative topics.",
+    "category": "instructional",
+    "locations": [
+      {
+        "address": "3616 Far West Blvd Suite 109, Austin, TX 78731",
+        "lat": 30.3578,
+        "lng": -97.7575
+      }
+    ],
+    "startDate": "2026-05-26",
+    "endDate": "2026-08-14",
+    "dateRanges": [
+      {
+        "startDate": "2026-05-26",
+        "endDate": "2026-08-14"
+      }
+    ],
+    "startTime": "9:00 AM",
+    "endTime": "3:00 PM",
+    "ageMin": 7,
+    "ageMax": 16,
+    "priceMin": 299,
+    "priceMax": 675,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://mycodingplace.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "54",
+    "name": "N2Worship",
+    "description": "Hope Chapel is hosting N2Worship music camps, designed to help people of all ages and abilities to grow in both their musical skills and their love of Jesus. Students 10 years and older – yes, adults too – can choose from voice, piano, guitar, bass, or drums. Registration will open March 1! Please contact Melinda Armbruster at or Tammy Kraus at for more information.",
+    "category": "art-music",
+    "locations": [
+      {
+        "address": "6701 Arroyo Seco",
+        "lat": 30.3398111,
+        "lng": -97.7300673
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-05",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-06-05"
+      }
+    ],
+    "ageMin": 10,
+    "ageMax": 18,
+    "priceMin": 100,
+    "priceMax": 275,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "mailto:melinda@hopemail.org",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "68",
+    "name": "Natureversity Outdoor School",
+    "description": "These award-winning and unique camps are for children who love spending all day outside, offering the opportunity to learn all about the native flora and fauna of the Hill Country. Working closely with skilled nature guides, campers adventure together in small groups to discover the wisdom of survival skills, wildlife tracks, local useful plants, and so much more in order to help them foster lifelong connections with our natural world!",
+    "category": "instructional",
+    "locations": [
+      {
+        "address": "Locations in Austin & Cedar Park",
+        "lat": 30.363073,
+        "lng": -97.69703
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-07",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-07"
+      }
+    ],
+    "ageMin": 5,
+    "ageMax": 12,
+    "priceMin": 425,
+    "priceMax": 450,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://natureversity.org",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "69",
+    "name": "Neuron Garage",
+    "description": "At Neuron Garage, campers get hands-on, repurposing their recycled materials to solve fun, weekly engineering challenges. Through this process, they collaborate with peers, experience the satisfaction of creating with their own hands, and develop the skill of using a growth mindset as they navigate both successes and setbacks. Each new challenge keeps engagement high while giving children repeated opportunities to build perseverance, problem-solving skills, and confidence. This program helps kids understand that abilities grow through effective strategies, effort, and feedback – empowering them to take on bigger challenges, stick with them longer, and unlock their full potential.",
+    "category": "instructional",
+    "locations": [
+      {
+        "address": "300 E Huntland Drive, Austin, TX 78752",
+        "lat": 30.3308,
+        "lng": -97.7108
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-07-31",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-07-31"
+      }
+    ],
+    "ageMin": 5,
+    "ageMax": 12,
+    "priceMin": 395,
+    "priceMax": 455,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "http://www.neurongarage.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "55",
+    "name": "Orpheus Academy of Music Summer Camps",
+    "description": "Experience the joy of music! ​Students build musicianship skills and connect with others in fun, creative activities. Whether your child is a total beginner or an advanced student eager to deepen their skills, there's something for everyone. Each camp ends with a special performance, giving students a chance to showcase what they've learned for friends and family. Camps are led by experienced teachers passionate about music education. Camp options for all ages, skill levels, and instruments!",
+    "category": "art-music",
+    "locations": [
+      {
+        "address": "3918-C Far West Blvd, Austin, TX 78731",
+        "lat": 30.3576,
+        "lng": -97.762
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-07",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-07"
+      }
+    ],
+    "ageMin": 4,
+    "ageMax": 18,
+    "priceMin": 275,
+    "priceMax": 385,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://orpheusacademy.com/summercamps",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "81",
+    "name": "Peak Performance",
+    "description": "offers a variety of options for all ages from Camp AdVnTr (kindergarten-second grade) to Camp NSanity (third-sixth) and Camp Xtreme (sixth-11th). Camps include daily field trips and snacks, with lunch provided on Fridays. A structured environment with a low staff-student ratio offers martial arts classes and field trips for swimming, bowling, skating, trampoline parks, movies, the Bob Bullock museum, Austin Aquarium, Waco Zoo, Veterans Memorial pool, Mt. Playmore, and Top Golf. Camp Xtreme includes field trips like Typhoon Texas, Kalahari, and Austin's Park.",
+    "category": "sports",
+    "locations": [
+      {
+        "address": "500 Brushy Creek Rd. #504, Cedar Park",
+        "lat": 30.5043099,
+        "lng": -97.8145849
+      }
+    ],
+    "startDate": "2026-05-26",
+    "endDate": "2026-08-07",
+    "dateRanges": [
+      {
+        "startDate": "2026-05-26",
+        "endDate": "2026-08-07"
+      }
+    ],
+    "ageMin": 5,
+    "ageMax": 16,
+    "priceMin": 329,
+    "priceMax": 500,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://cedarparksummercamp.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "93",
+    "name": "Penfold Theatre Summer Camp",
+    "description": "Campers enjoy a full theatrical experience combining acting, dance, movement, voice, and music, all culminating in a celebratory Saturday performance in costume and under the lights on the Penfold stage! Each camp runs two weeks, Monday through Friday, from 9am-4pm, with optional early drop-off at 8am and late pickup until 6pm at no additional charge. Performances happen on the Saturday following the final day of camp.",
+    "category": "theatre-dance",
+    "locations": [
+      {
+        "address": "2120 N. Mays St #290, Round Rock",
+        "lat": 30.5303,
+        "lng": -97.6736
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-07-31",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-07-31"
+      }
+    ],
+    "startTime": "9:00 AM",
+    "endTime": "4:00 PM",
+    "ageMin": 6,
+    "ageMax": 19,
+    "priceMin": 575,
+    "priceMax": 575,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://www.penfoldtheatre.org/summer-camps",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "56",
+    "name": "projectART Summer Art Camp",
+    "description": "is offering weeklong summer sessions for rising kindergarteners to sixth-graders with creative, interactive art activities, including painting, drawing, textiles, ceramics, claymation, STEM, ukulele, and improv, in small group sizes. Subjects vary week to week, but projectART's commitment to providing high-quality, accessible art education remains consistent. Tuition assistance is available to families experiencing hardship, and discounts are available to Sustaining pARTners.",
+    "category": "art-music",
+    "locations": [
+      {
+        "address": "260 Carney Ln., Wimberley",
+        "lat": 30.002549,
+        "lng": -98.115185
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-07",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-07"
+      }
+    ],
+    "ageMin": 5,
+    "ageMax": 12,
+    "priceMin": 375,
+    "priceMax": 375,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://projectartwimberley.org/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "82",
+    "name": "Quest ATX",
+    "description": "offers a unique summer water sports camp where your son or daughter will learn to wakeboard and experience loads of other water fun in a SAFE and fun environment. They require ALL campers to wear a life jacket when in the water, and the great staff will give each camper the attention and encouragement they need to ensure a fun experience. There are a variety of water activities, including wakeboarding, slides, rope swings, blob, paddleboards, and aqua park.",
+    "category": "sports",
+    "locations": [
+      {
+        "address": "10815 FM. 1625",
+        "lat": 30.143,
+        "lng": -97.767
+      }
+    ],
+    "startDate": "2026-05-26",
+    "endDate": "2026-08-14",
+    "dateRanges": [
+      {
+        "startDate": "2026-05-26",
+        "endDate": "2026-08-14"
+      }
+    ],
+    "ageMin": 7,
+    "ageMax": 15,
+    "priceMin": 100,
+    "priceMax": 450,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://questatx.com",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "27",
+    "name": "Radiant G Camp",
+    "description": "Girls Empowerment Network’s summer camp is designed for girls entering third to sixth grade. Weeklong day camps strengthen self efficacy – a girl’s belief in her ability to succeed through fun, connection, and skill building. Guided by a dedicated team of relatable role models, Radiant G Camp is packed with energizing games, creative projects, and inspiring group activities drawn from the Radiant G curriculum.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "1020 Grove Blvd.",
+        "lat": 30.2368341,
+        "lng": -97.7083575
+      }
+    ],
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-12",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-08",
+        "endDate": "2026-06-12"
+      }
+    ],
+    "ageMin": 8,
+    "ageMax": 11,
+    "priceMin": 200,
+    "priceMax": 500,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://www.girlsempowermentnetwork.org/radiant-camp",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "70",
+    "name": "Riding Club of Austin",
+    "description": "is a woman-owned full-service equestrian facility conveniently located in Southwest Austin. In winter, spring, and summer camps they offer hands-on riding lessons and horsemanship activities like grooming, tacking up, and general horse care for campers to build confidence with horses. They will also have fun horse games and arts & crafts inspired by horses and nature! Sign up online.",
+    "category": "instructional",
+    "locations": [
+      {
+        "address": "14425 FM. 1826",
+        "lat": 30.193,
+        "lng": -97.939
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-14",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-14"
+      }
+    ],
+    "ageMin": 5,
+    "ageMax": 17,
+    "priceMin": 120,
+    "priceMax": 120,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://ridingclub.co/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "83",
+    "name": "Rio Vista Farm Spring Break and Summer Day Camp",
+    "description": "is designed specifically to introduce your child to the horse and horse care. All activities are centered around the horse and English riding. No prior horse experience required. Campers are assigned their own horse for the week, and grouped based on their prior experience. Many riders attending are involved in year-round riding lessons at the farm or other Austin area barns along with those with little to no experience.",
+    "category": "sports",
+    "locations": [
+      {
+        "address": "1225 Creek Road, Dripping Springs",
+        "lat": 30.1895481,
+        "lng": -98.1020762
+      }
+    ],
+    "startDate": "2026-03-16",
+    "endDate": "2026-08-07",
+    "dateRanges": [
+      {
+        "startDate": "2026-03-16",
+        "endDate": "2026-03-20"
+      },
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-07"
+      }
+    ],
+    "ageMin": 7,
+    "ageMax": 14,
+    "priceMin": 400,
+    "priceMax": 400,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://www.riovistafarm.net",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "57",
+    "name": "ROCK CAMP ATX",
+    "description": "is a music camp where kids can be in a real rock band. Campers are grouped by age and ability and they work with professional musicians for two weeks to learn songs. At the end of the camp they perform at a venue in a big show. Morning camp is 9am till noon for ages 8-13; afternoon camp for 14-18 is from 1pm-5pm. Early bird pricing until June 1.",
+    "category": "art-music",
+    "locations": [
+      {
+        "address": "1905 Matthews Ln.",
+        "lat": 30.1993355,
+        "lng": -97.8066694
+      }
+    ],
+    "startDate": "2026-06-15",
+    "endDate": "2026-07-25",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-15",
+        "endDate": "2026-06-27"
+      },
+      {
+        "startDate": "2026-07-13",
+        "endDate": "2026-07-25"
+      }
+    ],
+    "startTime": "1:00 PM",
+    "endTime": "5:00 PM",
+    "ageMin": 8,
+    "ageMax": 18,
+    "priceMin": 400,
+    "priceMax": 600,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://austinschoolofmusic.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "84",
+    "name": "Rock-About Climbing Camp",
+    "description": "Looking for a way to get your kids outside, active, and engaged this summer or spring break? Kids Rock Climbing Camp is the perfect opportunity for children to experience the excitement of outdoor climbing in a fun, safe, and supportive environment. Designed to help kids build confidence, teamwork, and problem-solving skills, this camp provides a week full of adventure at some of the best climbing locations in Texas.",
+    "category": "sports",
+    "locations": [
+      {
+        "address": "3755 S. Capital of Texas Hwy",
+        "lat": 30.243271,
+        "lng": -97.800076
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-07-17",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-07-17"
+      }
+    ],
+    "ageMin": 9,
+    "ageMax": 18,
+    "priceMin": 425,
+    "priceMax": 425,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://www.rock-about.com/activities/kids-rock-climbing-camp",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "85",
+    "name": "Sail Strong Sailing Camp",
+    "description": "offers underserved youth the opportunity to build self-confidence, problem-solving skills, critical thinking, and teamwork through sailing. Campers are selected through an online application process. Criteria is visible on the website, as well as contact through .",
+    "category": "sports",
+    "locations": [
+      {
+        "address": "Austin Yacht Club",
+        "lat": 30.4215642,
+        "lng": -97.9214663
+      }
+    ],
+    "startDate": "2026-07-13",
+    "endDate": "2026-07-17",
+    "dateRanges": [
+      {
+        "startDate": "2026-07-13",
+        "endDate": "2026-07-17"
+      }
+    ],
+    "ageMin": 8,
+    "ageMax": 16,
+    "priceMin": 200,
+    "priceMax": 500,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "mailto:info@sailstrong.org",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "94",
+    "name": "Shirley McPhail School of Dance Camp",
+    "description": "Each fun-filled week will explore a different theme with training in dance, tumbling, singing, creative movement, musical theatre, arts & crafts, and more. This is a great opportunity for students to experience a wide range of activities in the performing arts and help develop skills of creativity. At the end of each camp on Friday students will celebrate with a special performance for family and friends! No previous dance experience required.",
+    "category": "theatre-dance",
+    "locations": [
+      {
+        "address": "8020 Mesa Dr.",
+        "lat": 30.370583,
+        "lng": -97.758461
+      }
+    ],
+    "startDate": "2026-06-08",
+    "endDate": "2026-08-14",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-08",
+        "endDate": "2026-08-14"
+      }
+    ],
+    "ageMin": 3,
+    "ageMax": 10,
+    "priceMin": 260,
+    "priceMax": 290,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://smsdance.com",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "71",
+    "name": "Sitter Academy by Babysitting Connection",
+    "description": "is a two-day, hands-on training designed to prepare babysitters with the skills, confidence, and professionalism parents trust. Participants learn child development, behavior management, digital and home safety, meal prep, and special-situation care, while earning CPR and First Aid certification. The program includes real-life, supervised infant care – diapers, bottles, bathing, and daily routines – along with practical training on running a babysitting biz!",
+    "category": "instructional",
+    "locations": [
+      {
+        "address": "Southwest Austin",
+        "lat": 30.21,
+        "lng": -97.85
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-15",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-15"
+      }
+    ],
+    "ageMin": 13,
+    "ageMax": 17,
+    "priceMin": 400,
+    "priceMax": 400,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://www.sitteracademy.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "28",
+    "name": "Slumber Falls Camp",
+    "description": "strives to create a welcoming camp community and invites families of all kinds to experience the joy of camp and the beauty of nature. New adventures await as campers experience the wonder of nature through outdoor activities such as fishing, hiking, archery, swimming, arts & crafts, and more. Campers can explore God’s amazing creation while strengthening independence, forming new friendships, learning new skills, and most importantly, having fun!",
+    "category": "general",
+    "locations": [
+      {
+        "address": "3610 River Rd., New Braunfels",
+        "lat": 29.753732,
+        "lng": -98.141542
+      }
+    ],
+    "startDate": "2026-06-07",
+    "endDate": "2026-08-04",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-07",
+        "endDate": "2026-08-04"
+      }
+    ],
+    "ageMin": 5,
+    "ageMax": 18,
+    "priceMin": 325,
+    "priceMax": 650,
+    "hasAftercare": false,
+    "hasOvernight": true,
+    "hasScholarships": true,
+    "website": "https://slumberfalls.org/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "86",
+    "name": "SoLa CrossFit Kids Camp",
+    "description": "Action-packed fun for all fitness levels! This camp combines fun with functional movements to help young athletes develop strength, confidence, coordination, teamwork and lifelong healthy habits.",
+    "category": "sports",
+    "locations": [
+      {
+        "address": "2119 Goodrich Ave.",
+        "lat": 30.2485825,
+        "lng": -97.7728952
+      }
+    ],
+    "startDate": "2026-07-06",
+    "endDate": "2026-07-31",
+    "dateRanges": [
+      {
+        "startDate": "2026-07-06",
+        "endDate": "2026-07-31"
+      }
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "priceMin": 215,
+    "priceMax": 215,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://www.solacrossfit.com/kids-summer-camp",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "72",
+    "name": "Spark Learning",
+    "description": "Giving back to the local Austin autism community is at the heart of Spark Learning. They offer a fun, inclusive summer experience for kids and teens, thoughtfully grouped by age, development, and play style to support positive peer connections. Campers participate with or without ABA support in a safe, supportive environment focused on confidence, friendship, and summer fun. Families can choose embedded ABA support or a tuition-based camp option, with all participants enjoying shared activities, experiences, and memories together.",
+    "category": "instructional",
+    "locations": [
+      {
+        "address": "2517 Enfield Rd, Austin, TX 78703",
+        "lat": 30.2894,
+        "lng": -97.7702
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-15",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-15"
+      }
+    ],
+    "ageMin": 4,
+    "ageMax": 18,
+    "priceMin": 200,
+    "priceMax": 500,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://spark-learning.com/",
+    "hasSpecialNeeds": true
+  },
+  {
+    "id": "29",
+    "name": "spilled milk social club",
+    "description": "is the perfect camp for families who want traditional summer activities (field trips, arts & crafts, water play, etc.) mixed with “specialty” activities and projects (cooking, musical theatre, creative/athletic competition) at an affordable cost, and with flexible hours. They have a little something for everyone, and as long as your kid is up for trying new things, this is a great program that caters to many interests. Come join in on the fun!",
+    "category": "general",
+    "locations": [
+      {
+        "address": "3804 Cherrywood",
+        "lat": 30.2915935,
+        "lng": -97.7139829
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-14",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-14"
+      }
+    ],
+    "ageMin": 5,
+    "ageMax": 12,
+    "priceMin": 210,
+    "priceMax": 420,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://nousecrying.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "87",
+    "name": "Squad STX Boys Camp",
+    "description": "is a 100% outdoor, all-boys summer camp run by military veterans and Aggie cadets, offering primitive camping, orienteering, and laser tag missions for boys seeking a fun challenge! Father & son sessions also available.",
+    "category": "sports",
+    "locations": [
+      {
+        "address": "1629 Park Road 59, Glen Rose",
+        "lat": 32.234,
+        "lng": -97.755
+      }
+    ],
+    "startDate": "2026-05-29",
+    "endDate": "2026-06-31",
+    "dateRanges": [
+      {
+        "startDate": "2026-05-29",
+        "endDate": "2026-06-31"
+      }
+    ],
+    "ageMin": 10,
+    "ageMax": 18,
+    "priceMin": 650,
+    "priceMax": 800,
+    "hasAftercare": false,
+    "hasOvernight": true,
+    "hasScholarships": true,
+    "website": "https://squadstx.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "30",
+    "name": "St. Andrew's School Summer Camp",
+    "description": "Grab a friend and spend part of your summer days at a fun-filled day camp at St. Andrew's 31st Street or Southwest Parkway campus. The camp features classes in athletics, arts, academics, STEAM, and more, welcoming both the St. Andrew’s community and students from the greater Austin area and beyond.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "1112 W 31st Street, Austin, TX 78705",
+        "lat": 30.3013,
+        "lng": -97.7477
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-07-02",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-07-02"
+      }
+    ],
+    "ageMin": 4,
+    "ageMax": 18,
+    "priceMin": 280,
+    "priceMax": 280,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://www.sasaustin.org/student-life/summer-camp-at-st-andrews-2026",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "31",
+    "name": "Steve & Kate's Camp",
+    "description": "Since 1980, Steve & Kate’s Camp has put kids in charge. Campers choose from a variety of activities in real time, including sewing, stop-motion, coding, sports & recreation, maker crafts, and more. And there’s plenty of perks for grownups too. Families can attend for a day, the entire summer, or anything in between. There’s no weekly sessions or reservations required. Any unused passes are automatically refunded at summer’s end. Lunch, snacks, and all hours (8am-6pm) included. .",
+    "category": "general",
+    "locations": [
+      {
+        "address": "300 E Huntland Dr, Austin, TX 78752",
+        "lat": 30.3384,
+        "lng": -97.7142
+      },
+      {
+        "address": "9607 Brodie Ln, Austin, TX 78748",
+        "lat": 30.1741,
+        "lng": -97.8569
+      }
+    ],
+    "startDate": "2026-05-26",
+    "endDate": "2026-07-31",
+    "dateRanges": [
+      {
+        "startDate": "2026-05-26",
+        "endDate": "2026-07-31"
+      }
+    ],
+    "startTime": "8:00 AM",
+    "endTime": "6:00 PM",
+    "ageMin": 4,
+    "ageMax": 12,
+    "priceMin": 115,
+    "priceMax": 3450,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://steveandkatescamp.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "95",
+    "name": "Summer 2026 Dance Camps",
+    "description": "offer dancers of all ages a fun and engaging way to stay active and inspired. Camps blend quality dance instruction with creative themes, movement games, and skill-building activities. Dancers explore styles such as ballet, hip-hop, jazz, contemporary, tap, acro, and more! All camps are led by experienced instructors and are designed to build confidence, coordination, and a love of dance in a supportive environment.",
+    "category": "theatre-dance",
+    "locations": [
+      {
+        "address": "300 N. Bagdad, Leander",
+        "lat": 30.574355,
+        "lng": -97.870482
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-07",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-07"
+      }
+    ],
+    "ageMin": 2,
+    "ageMax": 18,
+    "priceMin": 125,
+    "priceMax": 500,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://thedanceacademytx.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "32",
+    "name": "Summer History Explorers Camp",
+    "description": "Young explorers are invited to step behind the scenes of Williamson County’s Media Through the Ages. Through hands-on activities and behind-the-lens experiments, campers will discover how newspapers, radio pioneers, early TV studios, and textile-based communication shaped our community’s stories. From creating film scripts and bold headlines to experimenting with printed fabrics and pattern-based storytelling, participants will explore the many ways people have shared information over time. This dynamic camp offers curious kids a fun, interactive path into media history and communication. .",
+    "category": "general",
+    "locations": [
+      {
+        "address": "The Williamson Museum, 716 South Austin Ave., Georgetown",
+        "lat": 30.636825,
+        "lng": -97.678321
+      }
+    ],
+    "startDate": "2026-07-13",
+    "endDate": "2026-07-24",
+    "dateRanges": [
+      {
+        "startDate": "2026-07-13",
+        "endDate": "2026-07-24"
+      }
+    ],
+    "ageMin": 8,
+    "ageMax": 11,
+    "priceMin": 120,
+    "priceMax": 150,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://www.williamsonmuseum.org/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "96",
+    "name": "Synergy Dance Studio",
+    "description": "offers exciting weekly themed dance camps for children at its Westlake studio. Preschool camps (9am-noon) and school-age camps (10am-3pm) include dancing plus fun art & crafts, with early drop-off and late pickup available. Themes include K-Pop, Princess Party, Unicorns & Mermaids, Labubu Boogie, Swiftie Summer, and Pop Stars. For dancers looking for more focused training, they offer jazz, ballet, contemporary, drill team, and musical theatre intensives divided into beginner to advanced levels.",
+    "category": "theatre-dance",
+    "locations": [
+      {
+        "address": "3425 Bee Caves Rd.",
+        "lat": 30.266748,
+        "lng": -97.7835726
+      }
+    ],
+    "startDate": "2026-05-18",
+    "endDate": "2026-08-07",
+    "dateRanges": [
+      {
+        "startDate": "2026-05-18",
+        "endDate": "2026-08-07"
+      }
+    ],
+    "startTime": "10:00 AM",
+    "endTime": "3:00 PM",
+    "ageMin": 3,
+    "ageMax": 18,
+    "priceMin": 245,
+    "priceMax": 350,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://synergydancestudio.com/summer-dance-camp",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "97",
+    "name": "TexArts",
+    "description": "Step into enchanting worlds at weeklong musical theatre camps! Young performers will bring magical stories to life, singing and dancing to favorite songs from movies or TV shows. With a mix of creativity, teamwork, and fun, these themed camps will give your child summer friends and memories to remember. Or sign up for the two-week TexARTS Summer Musical: School of Rock! Turn up the volume in this fully produced performance camp where campers build rock-star skills through singing, acting, and high-energy choreography while working as an ensemble to bring this electrifying show to life. y.",
+    "category": "theatre-dance",
+    "locations": [
+      {
+        "address": "1110 S Ranch Road 620, Lakeway, TX 78734",
+        "lat": 30.3521,
+        "lng": -97.9635
+      }
+    ],
+    "startDate": "2026-05-26",
+    "endDate": "2026-08-07",
+    "dateRanges": [
+      {
+        "startDate": "2026-05-26",
+        "endDate": "2026-08-07"
+      }
+    ],
+    "ageMin": 5,
+    "ageMax": 17,
+    "priceMin": 285,
+    "priceMax": 750,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://www.tex-arts.org/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "88",
+    "name": "Texas Climbing Adventures",
+    "description": "Grab a spot for your kids in this fun outdoor rock climbing camp taking place at Reimers Ranch. Campers get professional instruction from SPI AMGA certified climbing instructors. The five-day camp will include rock-climbing techniques, introduction to equipment, and safety fundamentals. They focus on an appreciation of nature and teach using the challenge-by-choice method, encouraging participation and focus on each climber's growth and mental & skill development.",
+    "category": "sports",
+    "locations": [
+      {
+        "address": "600 Azie Morton Rd, Austin, TX 78704",
+        "lat": 30.2648,
+        "lng": -97.765
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-07-24",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-07-24"
+      }
+    ],
+    "ageMin": 8,
+    "ageMax": 13,
+    "priceMin": 400,
+    "priceMax": 400,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://texasclimbingadventures.com",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "38",
+    "name": "The Art Garage",
+    "description": "Campers can look forward to creating 2-3+ art projects every day they are in camp. Thoughtfully curated curricula introduce a variety of art techniques, mediums, and art history, and projects are presented in an engaging and fun way. Your camper may work with canvas painting, hand-building with clay, glass fusion, sketching, collage, tie-dye, pottery painting, mosaic making, and more!",
+    "category": "art-music",
+    "locations": [
+      {
+        "address": "11190 Circle Drive, Suite 202, Austin, TX 78736",
+        "lat": 30.2248,
+        "lng": -97.9526
+      },
+      {
+        "address": "5501 North Lamar, Austin, TX",
+        "lat": 30.3233,
+        "lng": -97.7276
+      },
+      {
+        "address": "8204 Brodie Lane, Austin, TX",
+        "lat": 30.2017,
+        "lng": -97.839
+      }
+    ],
+    "startDate": "2026-05-26",
+    "endDate": "2026-08-18",
+    "dateRanges": [
+      {
+        "startDate": "2026-05-26",
+        "endDate": "2026-08-18"
+      }
+    ],
+    "ageMin": 6,
+    "ageMax": 14,
+    "priceMin": 95,
+    "priceMax": 409,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://theartgarageaustin.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "58",
+    "name": "UMLAUF Summer Art Camp",
+    "description": "This is a one-of-a-kind experience designed to spark imagination and curiosity. Campers will explore the beauty of art and nature through hands-on activities, outdoor adventures, and engaging projects inspired by the Sculpture Garden.",
+    "category": "art-music",
+    "locations": [
+      {
+        "address": "605 Azie Morton Rd.",
+        "lat": 30.26328,
+        "lng": -97.7661673
+      }
+    ],
+    "startDate": "2026-06-08",
+    "endDate": "2026-07-24",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-08",
+        "endDate": "2026-07-24"
+      }
+    ],
+    "ageMin": 5,
+    "ageMax": 10,
+    "priceMin": 425,
+    "priceMax": 425,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://www.umlaufsculpture.org/summercamp",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "33",
+    "name": "Wet & Wild Adventure Camp",
+    "description": "is a unique day camp where kids go on a different field trip every day, visiting all that’s fun and adventurous in Central Texas. They'll visit lakes, rivers, creeks, and pools – a total of more than 20 different swimming holes and pools, as they swim someplace different every day. Other activities include tubing, stand-up paddleboarding, arcades, trampoline gyms, amusement and water parks, games, exploring, and picnics. When it rains they'll find an indoor adventure.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "Multiple drop-off locations along MoPac (Central, South, North)",
+        "lat": 30.2672,
+        "lng": -97.7431
+      }
+    ],
+    "startDate": "2026-05-26",
+    "endDate": "2026-08-14",
+    "dateRanges": [
+      {
+        "startDate": "2026-05-26",
+        "endDate": "2026-08-14"
+      }
+    ],
+    "ageMin": 9,
+    "ageMax": 15,
+    "priceMin": 500,
+    "priceMax": 640,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://wetwildcamp.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "34",
+    "name": "Young Chefs Academy® Culinary Camps",
+    "description": "More than camp, it’s a confidence boost. These hands-on culinary camps help kids build independence, teamwork, and real kitchen skills while cooking from scratch every day. Campers create five to six recipes each week as they learn knife skills, baking, stovetop cooking, food presentation, and collaboration in a fun, supportive environment led by trained instructors.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "S. Highway 290 #501",
+        "lat": 30.2489,
+        "lng": -97.8707
+      }
+    ],
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-87",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-08",
+        "endDate": "2026-06-87"
+      }
+    ],
+    "ageMin": 7,
+    "ageMax": 14,
+    "priceMin": 375,
+    "priceMax": 375,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "website": "https://austinswtx.youngchefsacademy.com/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "98",
+    "name": "Young Shakespeare 2026",
+    "description": "is an intensive summer performance group for students aged 13-19, though younger, experienced students have participated in the past. A monthlong rehearsal period culminates in a student-performed, professionally staged and designed production at the Scottish Rite Theater. This is a tuition-based program with reasonable rates, and the program is now in its 18th consecutive year. For audition information, email .",
+    "category": "theatre-dance",
+    "locations": [
+      {
+        "address": "207 W 18th Street, Austin, TX 78701",
+        "lat": 30.28,
+        "lng": -97.7406
+      }
+    ],
+    "startDate": "2026-05-18",
+    "endDate": "2026-06-28",
+    "dateRanges": [
+      {
+        "startDate": "2026-05-18",
+        "endDate": "2026-06-28"
+      }
+    ],
+    "ageMin": 13,
+    "ageMax": 19,
+    "priceMin": 600,
+    "priceMax": 700,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "mailto:youngshakespeare@austinshakespeare.org",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "35",
+    "name": "Young Women's Leadership Challenge",
+    "description": "is a yearlong program that empowers high school girls to become confident, capable leaders. It begins with an engaging summer leadership conference where participants build communication skills, self-confidence, critical thinking, and friendships through hands-on activities and meaningful conversations. Throughout the year, students continue learning through mentorship, monthly gatherings, and creating and executing their own community service project.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "3001 S. Congress",
+        "lat": 30.232645,
+        "lng": -97.756088
+      }
+    ],
+    "startDate": "2026-07-06",
+    "endDate": "2026-07-11",
+    "dateRanges": [
+      {
+        "startDate": "2026-07-06",
+        "endDate": "2026-07-11"
+      }
+    ],
+    "ageMin": 14,
+    "ageMax": 17,
+    "priceMin": 25,
+    "priceMax": 500,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://empowered2lead.org/",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "99",
+    "name": "Zach Theater Summer Camps",
+    "description": "Give your child the gift of creativity, confidence, and fun! Young performers will act, sing, and dance while building lifelong skills and friendships. Enroll today!",
+    "category": "theatre-dance",
+    "locations": [
+      {
+        "address": "1510 Toomey Rd, Austin, TX 78704",
+        "lat": 30.2644,
+        "lng": -97.7591
+      },
+      {
+        "address": "14010 US-183, Suite 540, Cedar Park, TX 78613",
+        "lat": 30.4739,
+        "lng": -97.8009
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-14",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-14"
+      }
+    ],
+    "ageMin": 3,
+    "ageMax": 18,
+    "priceMin": 290,
+    "priceMax": 485,
+    "hasAftercare": true,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://www.zachtheater.org/zach-youth/camps",
+    "hasSpecialNeeds": false
+  },
+  {
+    "id": "101",
+    "name": "Camp Bluebonnet",
+    "description": "A week-long day camp for children with Type 1 diabetes where kids connect with peers facing similar challenges, receive diabetes education, and enjoy recreational activities in a safe, supportive environment. Run by the Children's Diabetes Camp of Central Texas.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "19051 FM 2484, Killeen, TX 76542",
+        "lat": 30.964,
+        "lng": -97.722
+      }
+    ],
+    "startDate": "2026-06-15",
+    "endDate": "2026-06-19",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-15",
+        "endDate": "2026-06-19"
+      }
+    ],
+    "ageMin": 6,
+    "ageMax": 18,
+    "priceMin": 0,
+    "priceMax": 1000,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": true,
+    "website": "https://www.cbt1d.org/",
+    "hasSpecialNeeds": true
+  },
+  {
+    "id": "102",
+    "name": "McBeth Therapeutic Summer Camp",
+    "description": "Therapeutic summer camp providing individualized support for children with special needs including autism, ADHD, and developmental delays. Small group sizes and trained therapists create a safe, nurturing environment for social skill-building and fun.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "2401-A Columbus Dr, Austin 78746",
+        "lat": 30.2633,
+        "lng": -97.7966
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-01",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-01"
+      }
+    ],
+    "ageMin": 6,
+    "ageMax": 16,
+    "priceMin": 0,
+    "priceMax": 0,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "hasSpecialNeeds": true,
+    "website": "https://www.mcbethrecreation.com"
+  },
+  {
+    "id": "103",
+    "name": "ASPIRE Summer Program",
+    "description": "ASPIRE offers structured summer programming for children with autism and related developmental differences. Emphasizes social skills, communication, and community engagement through play-based learning and therapeutic activities.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "3755 S Capital of Texas Hwy, Austin 78704",
+        "lat": 30.2383,
+        "lng": -97.8132
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-01",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-01"
+      }
+    ],
+    "ageMin": 2,
+    "ageMax": 12,
+    "priceMin": 525,
+    "priceMax": 825,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "hasSpecialNeeds": true,
+    "website": "https://www.theaspiregroup.org"
+  },
+  {
+    "id": "104",
+    "name": "Dream a Dream Therapeutic Horsemanship",
+    "description": "Therapeutic horseback riding camp for children and teens with physical, cognitive, and emotional disabilities. Certified instructors guide riders through equine-assisted activities that improve balance, coordination, confidence, and social skills.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "23650 Round Mountain Cir, Leander 78641",
+        "lat": 30.5619,
+        "lng": -97.8631
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-01",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-01"
+      }
+    ],
+    "ageMin": 4,
+    "ageMax": 18,
+    "priceMin": 0,
+    "priceMax": 0,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "hasSpecialNeeds": true,
+    "website": "https://www.dreamadream.org"
+  },
+  {
+    "id": "105",
+    "name": "Round Rock Adaptive Camp",
+    "description": "Inclusive adaptive camp run by the City of Round Rock Parks and Recreation. Offers modified activities for youth and young adults with intellectual and developmental disabilities, including arts and crafts, swimming, field trips, and social events.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "301 W Bagdad Ave, Round Rock 78664",
+        "lat": 30.5083,
+        "lng": -97.6789
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-01",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-01"
+      }
+    ],
+    "ageMin": 5,
+    "ageMax": 21,
+    "priceMin": 0,
+    "priceMax": 0,
+    "hasAftercare": false,
+    "hasOvernight": false,
+    "hasScholarships": false,
+    "hasSpecialNeeds": true,
+    "website": "https://www.roundrocktexas.gov/departments/parks-and-recreation"
+  },
+  {
+    "id": "106",
+    "name": "Down Home Ranch Camp",
+    "description": "Residential camp experience for teens and adults with intellectual and developmental disabilities. Campers enjoy horseback riding, swimming, arts and crafts, music, nature hikes, and farm activities on a working ranch in Elgin, TX.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "20250 FM 619, Elgin 78621",
+        "lat": 30.3071,
+        "lng": -97.3414
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-01",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-01"
+      }
+    ],
+    "ageMin": 13,
+    "ageMax": 30,
+    "priceMin": 0,
+    "priceMax": 0,
+    "hasAftercare": false,
+    "hasOvernight": true,
+    "hasScholarships": true,
+    "hasSpecialNeeds": true,
+    "website": "https://www.downhomeranch.org"
+  },
+  {
+    "id": "107",
+    "name": "Camp For All",
+    "description": "Barrier-free camp in Burton, TX serving children and adults with challenging illnesses and special needs. Fully accessible facilities with activities including fishing, swimming, horseback riding, zip lines, and campfire programs.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "6301 Rehburg Rd, Burton 77835",
+        "lat": 30.1694,
+        "lng": -96.5933
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-01",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-01"
+      }
+    ],
+    "ageMin": 6,
+    "ageMax": 17,
+    "priceMin": 0,
+    "priceMax": 800,
+    "hasAftercare": false,
+    "hasOvernight": true,
+    "hasScholarships": false,
+    "hasSpecialNeeds": true,
+    "website": "https://www.campforall.org"
+  },
+  {
+    "id": "108",
+    "name": "Texas Lions Camp",
+    "description": "Free residential camp for children with physical disabilities, type 1 diabetes, and cancer. Activities include swimming, horseback riding, fishing, field sports, and campfires. All programs and services are provided at no cost to families.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "4000 Hwy 27, Kerrville 78028",
+        "lat": 30.0369,
+        "lng": -99.1264
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-01",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-01"
+      }
+    ],
+    "ageMin": 7,
+    "ageMax": 16,
+    "priceMin": 0,
+    "priceMax": 0,
+    "hasAftercare": false,
+    "hasOvernight": true,
+    "hasScholarships": true,
+    "hasSpecialNeeds": true,
+    "website": "https://www.lionscamp.com"
+  },
+  {
+    "id": "109",
+    "name": "Charis Hills",
+    "description": "Residential summer camp for children with high-functioning autism, ADHD, learning differences, and social skill challenges. Located on 300 acres with activities including swimming, horseback riding, rock climbing, archery, and social skills groups.",
+    "category": "general",
+    "locations": [
+      {
+        "address": "498 Faulkner Rd, Sunset 76270",
+        "lat": 33.4498,
+        "lng": -97.7685
+      }
+    ],
+    "startDate": "2026-06-01",
+    "endDate": "2026-08-01",
+    "dateRanges": [
+      {
+        "startDate": "2026-06-01",
+        "endDate": "2026-08-01"
+      }
+    ],
+    "ageMin": 7,
+    "ageMax": 18,
+    "priceMin": 0,
+    "priceMax": 0,
+    "hasAftercare": false,
+    "hasOvernight": true,
+    "hasScholarships": false,
+    "hasSpecialNeeds": true,
+    "website": "https://www.charishills.org"
+  }
+]
