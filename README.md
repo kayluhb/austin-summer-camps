@@ -1,87 +1,68 @@
-# Welcome to React Router!
+# [Austin Summer Camps Map](https://github.com/kayluhb/austin-summer-camps)
 
-A modern, production-ready template for building full-stack React applications using React Router.
+An interactive map and filterable directory of summer camps in the Austin, TX area. Data sourced from the [Austin Chronicle](https://www.austinchronicle.com/summer-camps/) and augmented by /r/austin community members.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
+## Tech Stack
 
-## Features
-
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
+- [React Router v7](https://reactrouter.com/) (SSR)
+- [Mapbox GL](https://docs.mapbox.com/mapbox-gl-js/) via react-map-gl
+- [Tailwind CSS v4](https://tailwindcss.com/)
+- [Cloudflare Workers](https://developers.cloudflare.com/workers/) for deployment
+- [Biome](https://biomejs.dev/) for linting and formatting
 
 ## Getting Started
 
-### Installation
+### Prerequisites
 
-Install the dependencies:
+- [Node.js](https://nodejs.org/) >= 20
+- [pnpm](https://pnpm.io/)
+- A [Mapbox access token](https://account.mapbox.com/access-tokens/)
+
+### Setup
 
 ```bash
-npm install
+pnpm install
+cp .dev.vars.example .dev.vars
+```
+
+Add your Mapbox token to `.dev.vars`:
+
+```
+MAPBOX_TOKEN=pk.your_token_here
 ```
 
 ### Development
 
-Start the development server with HMR:
-
 ```bash
-npm run dev
+pnpm dev
 ```
 
-Your application will be available at `http://localhost:5173`.
-
-## Building for Production
-
-Create a production build:
+### Linting
 
 ```bash
-npm run build
+pnpm lint        # check
+pnpm lint:fix    # auto-fix
 ```
 
 ## Deployment
 
-### Docker Deployment
+### Cloudflare Workers
 
-To build and run using Docker:
+Set the `MAPBOX_TOKEN` secret in your Cloudflare dashboard or via Wrangler:
 
 ```bash
-docker build -t my-app .
-
-# Run the container
-docker run -p 3000:3000 my-app
+wrangler secret put MAPBOX_TOKEN
 ```
 
-The containerized application can be deployed to any platform that supports Docker, including:
+Then deploy:
 
-- AWS ECS
-- Google Cloud Run
-- Azure Container Apps
-- Digital Ocean App Platform
-- Fly.io
-- Railway
-
-### DIY Deployment
-
-If you're familiar with deploying Node applications, the built-in app server is production-ready.
-
-Make sure to deploy the output of `npm run build`
-
-```
-├── package.json
-├── package-lock.json (or pnpm-lock.yaml, or bun.lockb)
-├── build/
-│   ├── client/    # Static assets
-│   └── server/    # Server-side code
+```bash
+pnpm deploy
 ```
 
-## Styling
+### Docker
 
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
-
----
-
-Built with ❤️ using React Router.
+```bash
+docker build -t austin-camps-map .
+docker run -p 3000:3000 austin-camps-map
+```
