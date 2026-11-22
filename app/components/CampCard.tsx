@@ -33,8 +33,12 @@ function formatDateRange(startDate: string, endDate: string): string {
 	return `${start.toLocaleDateString("en-US", options)} - ${end.toLocaleDateString("en-US", options)}`;
 }
 
-function formatDateRanges(dateRanges: Array<{ startDate: string; endDate: string }>): string {
-	return dateRanges.map((r) => formatDateRange(r.startDate, r.endDate)).join("; ");
+function formatDateRanges(
+	dateRanges: Array<{ startDate: string; endDate: string }>,
+): string {
+	return dateRanges
+		.map((range) => formatDateRange(range.startDate, range.endDate))
+		.join("; ");
 }
 
 export function CampCard({
@@ -167,7 +171,9 @@ export function CampCard({
 							d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
 						/>
 					</svg>
-					{camp.priceMin === camp.priceMax ? `$${camp.priceMin}` : `$${camp.priceMin}-$${camp.priceMax}`}
+					{camp.priceMin === camp.priceMax
+						? `$${camp.priceMin}`
+						: `$${camp.priceMin}-$${camp.priceMax}`}
 				</div>
 			</div>
 
