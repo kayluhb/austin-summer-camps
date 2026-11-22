@@ -38,19 +38,16 @@ importers:
         version: 2.6.8
       '@cloudflare/vite-plugin':
         specifier: ^1.70.1
-        version: 1.70.1(@types/node@22.19.8)(vite@7.3.8(@types/node@22.19.8)(jiti@2.7.0)(lightningcss@1.33.0))(workerd@1.20261119.1)(wrangler@4.166.0(@cloudflare/workers-types@4.20260702.1)(@types/node@22.19.8))
+        version: 1.70.1(@types/node@22.19.8)(vite@7.3.8(@types/node@22.19.8)(jiti@2.7.0)(lightningcss@1.33.0))(workerd@1.20261119.1)(wrangler@4.166.0(@cloudflare/workers-types@5.20261121.1)(@types/node@22.19.8))
       '@cloudflare/workers-types':
-        specifier: ^4.20260702.1
-        version: 4.20260702.1
+        specifier: ^5.20261119.1
+        version: 5.20261121.1
       '@react-router/dev':
         specifier: 7.18.6
-        version: 7.18.6(@react-router/serve@7.18.6(react-router@7.18.6(react-dom@19.3.1(react@19.3.1))(react@19.3.1))(typescript@5.9.3))(@types/node@22.19.8)(jiti@2.7.0)(lightningcss@1.33.0)(react-router@7.18.6(react-dom@19.3.1(react@19.3.1))(react@19.3.1))(typescript@5.9.3)(vite@7.3.8(@types/node@22.19.8)(jiti@2.7.0)(lightningcss@1.33.0))(wrangler@4.166.0(@cloudflare/workers-types@4.20260702.1)(@types/node@22.19.8))
+        version: 7.18.6(@react-router/serve@7.18.6(react-router@7.18.6(react-dom@19.3.1(react@19.3.1))(react@19.3.1))(typescript@5.9.3))(@types/node@22.19.8)(jiti@2.7.0)(lightningcss@1.33.0)(react-router@7.18.6(react-dom@19.3.1(react@19.3.1))(react@19.3.1))(typescript@5.9.3)(vite@7.3.8(@types/node@22.19.8)(jiti@2.7.0)(lightningcss@1.33.0))(wrangler@4.166.0(@cloudflare/workers-types@5.20261121.1)(@types/node@22.19.8))
       '@tailwindcss/vite':
         specifier: ^4.3.5
         version: 4.3.5(vite@7.3.8(@types/node@22.19.8)(jiti@2.7.0)(lightningcss@1.33.0))
-      '@types/mapbox-gl':
-        specifier: ^3.5.0
-        version: 3.5.0
       '@types/node':
         specifier: ^22
         version: 22.19.8
@@ -74,7 +71,7 @@ importers:
         version: 5.1.4(typescript@5.9.3)(vite@7.3.8(@types/node@22.19.8)(jiti@2.7.0)(lightningcss@1.33.0))
       wrangler:
         specifier: ^4.166.0
-        version: 4.166.0(@cloudflare/workers-types@4.20260702.1)(@types/node@22.19.8)
+        version: 4.166.0(@cloudflare/workers-types@5.20261121.1)(@types/node@22.19.8)
 
 packages:
 
@@ -355,8 +352,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@cloudflare/workers-types@4.20260702.1':
-    resolution: {integrity: sha512-mOhf5TUEB1m2vPrxtqoIGfz0fUC9xyxRDx5gWHy5s+OCo6dcV+g7wI1R7gYCMFohhqF/2y2xeKVwMwCJjfn/WA==}
+  '@cloudflare/workers-types@5.20261121.1':
+    resolution: {integrity: sha512-eLzyhm8/Qn+yshOObNIVsV8YJyWR9BOBCnnuqmrqY5uhsVDlLMdCmOQ34oC3eoVLkav94Dc7MWcfC+FuaxdNjA==}
 
   '@cloudflare/workers-utils@0.56.0':
     resolution: {integrity: sha512-Fw3/zR+pQp+5hKn1CHIRkCYz49fyAb2qRqCq01jBGqlKL0rRnZyXYD4j0h9cjaWPYYQUOe5y6L7BNp2ZwsHg5A==}
@@ -1187,10 +1184,6 @@ packages:
 
   '@types/estree@1.0.8':
     resolution: {integrity: sha512-dWHzHa2WqEXI/O1E9OjrocMTKJl2mSrEolh1Iomrv6U+JuNwaHXsXx9bLu5gG7BUWFIN0skIQJQ/L1rIex4X6w==}
-
-  '@types/mapbox-gl@3.5.0':
-    resolution: {integrity: sha512-3wVAUTC6q1UKatLP9YxFBnGJWi3neJUF9OKeyRdUf/BsYjZAP35xmZkL4zogVJbO3vdExuSVYCAkzUXjpjdhOg==}
-    deprecated: This is a stub types definition. mapbox-gl provides its own type definitions, so you do not need this installed.
 
   '@types/node-fetch@2.6.13':
     resolution: {integrity: sha512-QGpRVpzSaUs30JBSGPjOg4Uveu384erbHBoT1zeONvyCfwQxIkUshLAOqN/k9EjGviPRmWTTe6aH2qySWKTVSw==}
@@ -2493,13 +2486,13 @@ snapshots:
     optionalDependencies:
       workerd: 1.20261119.1
 
-  '@cloudflare/vite-plugin@1.70.1(@types/node@22.19.8)(vite@7.3.8(@types/node@22.19.8)(jiti@2.7.0)(lightningcss@1.33.0))(workerd@1.20261119.1)(wrangler@4.166.0(@cloudflare/workers-types@4.20260702.1)(@types/node@22.19.8))':
+  '@cloudflare/vite-plugin@1.70.1(@types/node@22.19.8)(vite@7.3.8(@types/node@22.19.8)(jiti@2.7.0)(lightningcss@1.33.0))(workerd@1.20261119.1)(wrangler@4.166.0(@cloudflare/workers-types@5.20261121.1)(@types/node@22.19.8))':
     dependencies:
       '@cloudflare/unenv-preset': 2.16.2(unenv@2.0.0-rc.24)(workerd@1.20261119.1)
       miniflare: 5.20261117.0-beta(@types/node@22.19.8)
       unenv: 2.0.0-rc.24
       vite: 7.3.8(@types/node@22.19.8)(jiti@2.7.0)(lightningcss@1.33.0)
-      wrangler: 4.166.0(@cloudflare/workers-types@4.20260702.1)(@types/node@22.19.8)
+      wrangler: 4.166.0(@cloudflare/workers-types@5.20261121.1)(@types/node@22.19.8)
       ws: 8.22.0
     transitivePeerDependencies:
       - '@types/node'
@@ -2538,7 +2531,7 @@ snapshots:
   '@cloudflare/workerd-windows-64@1.20261119.1':
     optional: true
 
-  '@cloudflare/workers-types@4.20260702.1': {}
+  '@cloudflare/workers-types@5.20261121.1': {}
 
   '@cloudflare/workers-utils@0.56.0':
     dependencies:
@@ -2871,7 +2864,7 @@ snapshots:
 
   '@poppinss/exception@1.2.3': {}
 
-  '@react-router/dev@7.18.6(@react-router/serve@7.18.6(react-router@7.18.6(react-dom@19.3.1(react@19.3.1))(react@19.3.1))(typescript@5.9.3))(@types/node@22.19.8)(jiti@2.7.0)(lightningcss@1.33.0)(react-router@7.18.6(react-dom@19.3.1(react@19.3.1))(react@19.3.1))(typescript@5.9.3)(vite@7.3.8(@types/node@22.19.8)(jiti@2.7.0)(lightningcss@1.33.0))(wrangler@4.166.0(@cloudflare/workers-types@4.20260702.1)(@types/node@22.19.8))':
+  '@react-router/dev@7.18.6(@react-router/serve@7.18.6(react-router@7.18.6(react-dom@19.3.1(react@19.3.1))(react@19.3.1))(typescript@5.9.3))(@types/node@22.19.8)(jiti@2.7.0)(lightningcss@1.33.0)(react-router@7.18.6(react-dom@19.3.1(react@19.3.1))(react@19.3.1))(typescript@5.9.3)(vite@7.3.8(@types/node@22.19.8)(jiti@2.7.0)(lightningcss@1.33.0))(wrangler@4.166.0(@cloudflare/workers-types@5.20261121.1)(@types/node@22.19.8))':
     dependencies:
       '@babel/core': 7.29.0
       '@babel/generator': 7.29.0
@@ -2906,7 +2899,7 @@ snapshots:
     optionalDependencies:
       '@react-router/serve': 7.18.6(react-router@7.18.6(react-dom@19.3.1(react@19.3.1))(react@19.3.1))(typescript@5.9.3)
       typescript: 5.9.3
-      wrangler: 4.166.0(@cloudflare/workers-types@4.20260702.1)(@types/node@22.19.8)
+      wrangler: 4.166.0(@cloudflare/workers-types@5.20261121.1)(@types/node@22.19.8)
     transitivePeerDependencies:
       - '@types/node'
       - babel-plugin-macros
@@ -3102,10 +3095,6 @@ snapshots:
       vite: 7.3.8(@types/node@22.19.8)(jiti@2.7.0)(lightningcss@1.33.0)
 
   '@types/estree@1.0.8': {}
-
-  '@types/mapbox-gl@3.5.0':
-    dependencies:
-      mapbox-gl: 3.35.2
 
   '@types/node-fetch@2.6.13':
     dependencies:
@@ -4134,7 +4123,7 @@ snapshots:
       '@cloudflare/workerd-linux-arm64': 1.20261119.1
       '@cloudflare/workerd-windows-64': 1.20261119.1
 
-  wrangler@4.166.0(@cloudflare/workers-types@4.20260702.1)(@types/node@22.19.8):
+  wrangler@4.166.0(@cloudflare/workers-types@5.20261121.1)(@types/node@22.19.8):
     dependencies:
       '@cloudflare/kv-asset-handler': 0.5.1
       '@cloudflare/unenv-preset': 2.16.2(unenv@2.0.0-rc.24)(workerd@1.20261119.1)
@@ -4150,7 +4139,7 @@ snapshots:
       unenv: 2.0.0-rc.24
       workerd: 1.20261119.1
     optionalDependencies:
-      '@cloudflare/workers-types': 4.20260702.1
+      '@cloudflare/workers-types': 5.20261121.1
       fsevents: 2.3.3
     transitivePeerDependencies:
       - '@types/node'

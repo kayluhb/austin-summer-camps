@@ -8,7 +8,11 @@ interface CampPopupProps {
 	onClose: () => void;
 }
 
-export function CampPopup({ camp, locationIndex = 0, onClose }: CampPopupProps) {
+export function CampPopup({
+	camp,
+	locationIndex = 0,
+	onClose,
+}: CampPopupProps) {
 	const location = camp.locations[locationIndex] || camp.locations[0];
 	if (!location) return null;
 
@@ -34,7 +38,8 @@ export function CampPopup({ camp, locationIndex = 0, onClose }: CampPopupProps) 
 				)}
 				{camp.locations.length > 1 && (
 					<p className="text-xs text-gray-400 mb-1">
-						+{camp.locations.length - 1} other location{camp.locations.length > 2 ? "s" : ""}
+						+{camp.locations.length - 1} other location
+						{camp.locations.length > 2 ? "s" : ""}
 					</p>
 				)}
 				<p className="text-xs text-gray-600 mb-2 line-clamp-2">
@@ -45,7 +50,9 @@ export function CampPopup({ camp, locationIndex = 0, onClose }: CampPopupProps) 
 						Ages {camp.ageMin}-{camp.ageMax}
 					</div>
 					<div>
-						{camp.priceMin === camp.priceMax ? `$${camp.priceMin}` : `$${camp.priceMin}-$${camp.priceMax}`}
+						{camp.priceMin === camp.priceMax
+							? `$${camp.priceMin}`
+							: `$${camp.priceMin}-$${camp.priceMax}`}
 					</div>
 				</div>
 				<a
