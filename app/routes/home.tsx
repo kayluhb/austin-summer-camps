@@ -10,6 +10,7 @@ import {
 	searchParamsToFilters,
 } from "~/lib/filter";
 import type { Camp, Filters } from "~/lib/types";
+import { getCloudflare } from "~/lib/cloudflare-context";
 import type { Route } from "./+types/home";
 
 export function meta(_args: Route.MetaArgs) {
@@ -23,7 +24,7 @@ export function meta(_args: Route.MetaArgs) {
 }
 
 export function loader({ context }: Route.LoaderArgs) {
-	const mapboxToken = (context.cloudflare.env as { MAPBOX_TOKEN?: string })
+	const mapboxToken = (getCloudflare(context).env as { MAPBOX_TOKEN?: string })
 		.MAPBOX_TOKEN;
 	if (!mapboxToken) {
 		throw new Error("MAPBOX_TOKEN environment variable is not set");
