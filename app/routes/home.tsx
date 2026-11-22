@@ -4,13 +4,13 @@ import { CampList } from "~/components/CampList";
 import { CampMap } from "~/components/CampMap";
 import { FilterPanel } from "~/components/FilterPanel";
 import campsData from "~/data/camps.json";
+import { getCloudflare } from "~/lib/cloudflare-context";
 import {
 	filterCamps,
 	filtersToSearchParams,
 	searchParamsToFilters,
 } from "~/lib/filter";
 import type { Camp, Filters } from "~/lib/types";
-import { getCloudflare } from "~/lib/cloudflare-context";
 import type { Route } from "./+types/home";
 
 export function meta(_args: Route.MetaArgs) {
@@ -24,8 +24,7 @@ export function meta(_args: Route.MetaArgs) {
 }
 
 export function loader({ context }: Route.LoaderArgs) {
-	const mapboxToken = (getCloudflare(context).env as { MAPBOX_TOKEN?: string })
-		.MAPBOX_TOKEN;
+	const { MAPBOX_TOKEN: mapboxToken } = getCloudflare(context).env;
 	if (!mapboxToken) {
 		throw new Error("MAPBOX_TOKEN environment variable is not set");
 	}
@@ -61,11 +60,11 @@ export default function Home({ loaderData }: Route.ComponentProps) {
 					camp.description.toLowerCase().includes(query),
 			);
 		}
-		return result.sort((a, b) => a.name.localeCompare(b.name));
+		return result.sort((campA, campB) => campA.name.localeCompare(campB.name));
 	}, [filters, searchQuery]);
 
 	const priceRange = useMemo(() => {
-		const prices = camps.flatMap((c) => [c.priceMin, c.priceMax]);
+		const prices = camps.flatMap((camp) => [camp.priceMin, camp.priceMax]);
 		return {
 			min: Math.min(...prices),
 			max: Math.max(...prices),
@@ -106,7 +105,7 @@ export default function Home({ loaderData }: Route.ComponentProps) {
 								href="https://www.austinchronicle.com/summer-camps/"
 								target="_blank"
 								rel="noopener noreferrer"
-								className="text-blue-600 hover:underline"
+								className="text-blue-600 underline hover:no-underline"
 							>
 								Austin Chronicle
 							</a>{" "}

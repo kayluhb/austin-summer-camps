@@ -37,7 +37,7 @@ function formatDateRanges(
 	dateRanges: Array<{ startDate: string; endDate: string }>,
 ): string {
 	return dateRanges
-		.map((r) => formatDateRange(r.startDate, r.endDate))
+		.map((range) => formatDateRange(range.startDate, range.endDate))
 		.join("; ");
 }
 
